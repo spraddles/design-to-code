@@ -1,0 +1,19 @@
+{
+  "name": "Design-to-code",
+  "version": "1.0.0",
+  "description": "Your Figma Plugin",
+  "main": "dist/code.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "watch": "tsc --watch"
+  },
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "@figma/plugin-typings": "^1.76.0",
+    "@types/node": "^16.18.50",
+    "require": "^2.4.20",
+    "typescript": "^5.2.2"
+  },
+  "type": "commonjs"
+}

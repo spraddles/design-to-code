@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "outDir": "dist",
+    "module": "CommonJS",
+    "moduleDetection": "auto",
+    "lib": ["es6"],
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true,
+    "allowSyntheticDefaultImports": true,
+    "allowJs": true,
+    "removeComments": true,
+    "moduleResolution": "node",
+    "typeRoots": [
+      "./node_modules/@types",
+      "./node_modules/@figma"
+    ],
+  },
+  "paths": {
+    "@/*": ["./*"]
+  },
+  "include": ["src/**/*.ts"],
+  "exclude": [
+    "node_modules",
+  ]
+}

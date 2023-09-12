@@ -1,0 +1,19 @@
+{
+  "name": "Design to code",
+  "id": "1282818700033250052",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "capabilities": [
+    "inspect"
+  ],
+  "enableProposedApi": false,
+  "editorType": [
+    "dev"
+  ],
+  "ui": "ui.html",
+  "networkAccess": {
+    "allowedDomains": [
+      "none"
+    ]
+  }
+}
