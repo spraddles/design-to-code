@@ -1,4 +1,4 @@
-export default function rgbToHex(red: number, green: number, blue: number) {
+export function rgb2hex(red: number, green: number, blue: number) {
 
     // Ensure the RGB values are within the valid range [0, 1]
     red = Math.max(0, Math.min(1, red))

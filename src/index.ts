@@ -1,4 +1,4 @@
-import rgb2hex from './utils/rgb2hex'
+import { rgb2hex } from './utils/rgb2hex'
 // @ts-ignore
 import require from 'require'
 
@@ -14,7 +14,7 @@ interface styleObjectProps {
   // colors
   color?: string
   background?: string
-} 
+}
  
 figma.showUI(__html__) 
 

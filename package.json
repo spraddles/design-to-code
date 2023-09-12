@@ -4,8 +4,8 @@
   "description": "Your Figma Plugin",
   "main": "dist/code.js",
   "scripts": {
-    "build": "tsc -p tsconfig.json",
-    "watch": "tsc --watch"
+    "dev": "vite build --watch",
+    "build": "tsc && vite build"
   },
   "author": "",
   "license": "",
@@ -13,7 +13,6 @@
     "@figma/plugin-typings": "^1.76.0",
     "@types/node": "^16.18.50",
     "require": "^2.4.20",
-    "typescript": "^5.2.2"
-  },
-  "type": "commonjs"
+    "vite": "^4.4.9"
+  }
 }
