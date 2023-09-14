@@ -9,3 +9,9 @@ const isText = (layer) => layer.type === 'TEXT';
 
 Sending & receiving messages to / from UI:
 https://www.figma.com/plugin-docs/creating-ui/
+
+
+Todo:
+-shapes: bg + fg the same
+-font fallback
+
