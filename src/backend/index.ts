@@ -67,6 +67,6 @@ figma.on('selectionchange', () => {
 
     console.log('state.elements: ', state.elements)
 
-    // figma.ui.postMessage(elementObject)
+    figma.ui.postMessage('sending you a message...')
   }
 })

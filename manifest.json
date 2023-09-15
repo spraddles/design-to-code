@@ -10,7 +10,7 @@
   "editorType": [
     "dev"
   ],
-  "ui": "src/frontend/ui.html",
+  "ui": "dist/src/frontend/index.html",
   "networkAccess": {
     "allowedDomains": [
       "none"
