@@ -34,7 +34,6 @@ const htmlString = () => {
 const cssString = () => {
     var cssString = ''
     elementsArray.forEach((e) => {
-
         cssString+= `
             #${e.name} {
                 /* position */
@@ -48,7 +47,7 @@ const cssString = () => {
                 ${e.style.colors && e.style.colors.color ? `color: ${e.style.colors.color};` : '' }
                 ${e.style.colors && e.style.colors["background-color"] ? `background-color: ${e.style.colors["background-color"]};` : '' }
                 /* fonts */
-                ${e.style.fonts && e.style.fonts["font-family"] ? `font-family: ${e.style.fonts["font-family"]};` : '' }
+                ${e.style.fonts && e.style.fonts["font-family"] ? `font-family: ${e.style.fonts["font-family"]};` : ''}
                 ${e.style.fonts && e.style.fonts["font-size"] ? `font-size: ${e.style.fonts["font-size"]};` : '' }
                 ${e.style.fonts && e.style.fonts["font-weight"] ? `font-weight: ${e.style.fonts["font-weight"]};` : '' }
                 ${e.style.fonts && e.style.fonts["line-height"] ? `line-height: ${e.style.fonts["line-height"]};` : '' }

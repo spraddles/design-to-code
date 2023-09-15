@@ -1,4 +1,4 @@
-import { state, Element } from './../store'
+import { state, Element } from '../../store'
 
 export const setZindex = () => {
 

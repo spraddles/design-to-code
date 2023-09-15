@@ -6,12 +6,14 @@ const isContainer = (layer) => ['FRAME', 'COMPONENT', 'INSTANCE'].includes(layer
 const isShape = (layer) => ['RECTANGLE', 'ELLIPSE', 'POLYGON', 'STAR', 'VECTOR'].includes(layer.type);
 const isText = (layer) => layer.type === 'TEXT';
 
+Preact v-dom:
+https://preactjs.com/guide/v8/api-reference/#preactrender
+
 
 Sending & receiving messages to / from UI:
 https://www.figma.com/plugin-docs/creating-ui/
 
 
 Todo:
--shapes: bg + fg the same
 -font fallback
-
+-shapes: SVG as background or use random colors

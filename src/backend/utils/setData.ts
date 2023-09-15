@@ -1,4 +1,4 @@
-import { state, Element } from './../store'
+import { state, Element } from '../../store'
 
 export const setData = (node: any, elementObject: Element) => {
 
@@ -19,6 +19,7 @@ export const setData = (node: any, elementObject: Element) => {
         state.textElementIndex = state.textElementIndex + 1
         elementObject.type = 'text'
         elementObject.name = `text-${state.textElementIndex}`
+        elementObject.style.fonts['font-family'] = 'Sans-serif'
     }
     // image:
     if(elementObject.style.image['imageHash'] !== null) {

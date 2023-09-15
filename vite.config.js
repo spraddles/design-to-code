@@ -6,7 +6,8 @@ export default defineConfig({
         cssCodeSplit: true,
         rollupOptions: {
           input: {
-            'code': path.resolve(__dirname, './src/index.ts')
+            'backend': path.resolve(__dirname, './src/backend/index.ts'),
+            'frontend': path.resolve(__dirname, './src/frontend/index.ts')
           },
           output: {
             dir: './dist',

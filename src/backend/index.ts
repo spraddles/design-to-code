@@ -1,5 +1,5 @@
 import { rgb2hex } from './utils/rgb2hex'
-import { state, Element } from './store'
+import { state, Element } from '../store'
 import { setData } from './utils/setData'
 import { setZindex } from './utils/setZindex'
 

@@ -84,7 +84,7 @@
                 "background-color": null
             },
             "fonts": {
-                "font-family": "Agrandir Variable",
+                "font-family": "Sans-serif",
                 "font-size": "32px",
                 "font-weight": 336,
                 "text-align": "LEFT",
@@ -117,7 +117,7 @@
                 "background-color": null
             },
             "fonts": {
-                "font-family": "Agrandir Variable",
+                "font-family": "Sans-serif",
                 "font-size": "520px",
                 "font-weight": 469,
                 "text-align": "LEFT",
@@ -183,7 +183,7 @@
                 "background-color": null
             },
             "fonts": {
-                "font-family": "Avenir",
+                "font-family": "Sans-serif",
                 "font-size": "14px",
                 "font-weight": 400,
                 "text-align": "LEFT",
@@ -216,7 +216,7 @@
                 "background-color": null
             },
             "fonts": {
-                "font-family": "Agrandir Variable",
+                "font-family": "Sans-serif",
                 "font-size": "16px",
                 "font-weight": 336,
                 "text-align": "LEFT",
@@ -282,7 +282,7 @@
                 "background-color": null
             },
             "fonts": {
-                "font-family": "Agrandir Variable",
+                "font-family": "Sans-serif",
                 "font-size": "16px",
                 "font-weight": 336,
                 "text-align": "LEFT",
