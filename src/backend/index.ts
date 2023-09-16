@@ -1,9 +1,11 @@
 import { rgb2hex } from './utils/rgb2hex'
-import { state, Element } from '../store'
+import { state } from '../store'
+import { FigmaElement, FigmaEvent } from '../types'
 import { setData } from './utils/setData'
 import { setZindex } from './utils/setZindex'
+import { setWidth } from './utils/setWidth'
 
-var elementObject: Element
+var elementObject: FigmaElement | null
 
 figma.showUI(__html__)
 
@@ -63,10 +65,27 @@ figma.on('selectionchange', () => {
       setData(node, elementObject)
 
       setZindex()
+
+      // send to UI
+      figma.ui.postMessage({
+        name: 'setWidth', 
+        data: elementObject
+      } as FigmaEvent)
     }
 
-    console.log('state.elements: ', state.elements)
+    // console.log('state.elements: ', state.elements)
 
-    figma.ui.postMessage('sending you a message...')
   }
 })
+
+// receive from UI
+figma.ui.onmessage = (event) => {
+
+  console.log(event)
+
+  // set width
+  if(event.name == 'setWidth') {
+    console.log(event)
+    // setWidth(event.data)
+  }
+}

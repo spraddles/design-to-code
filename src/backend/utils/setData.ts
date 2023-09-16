@@ -1,6 +1,7 @@
-import { state, Element } from '../../store'
+import { state } from '../../store'
+import { FigmaElement } from '../../types'
 
-export const setData = (node: any, elementObject: Element) => {
+export const setData = (node: any, elementObject: FigmaElement) => {
 
     state.elementIndex = state.elementIndex + 1
 

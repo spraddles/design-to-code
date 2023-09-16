@@ -1,9 +1,10 @@
-import { state, Element } from '../../store'
+import { state } from '../../store'
+import { FigmaElement } from '../../types'
 
 export const setZindex = () => {
 
     // add key
-    state.elements.forEach((element: Element) => {
+    state.elements.forEach((element: FigmaElement) => {
         element.idNumeric = Number(element.id?.replace(/\D/g,''))
     })
     
