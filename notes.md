@@ -15,5 +15,9 @@ https://www.figma.com/plugin-docs/creating-ui/
 
 
 Todo:
+
+-setLineHeight: advanced
+
 -font fallback
 -shapes: SVG as background or use random colors
+-remove elements with no relevant data (e.g. shapes with no colours, text with no content, etc.)

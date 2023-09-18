@@ -1,9 +1,10 @@
 import { rgb2hex } from './utils/rgb2hex'
-import { state } from '../store'
-import { FigmaElement, FigmaEvent } from '../types'
+import { state } from './store'
+import { EventObject, FigmaElement } from '../types'
 import { setData } from './utils/setData'
 import { setZindex } from './utils/setZindex'
 import { setWidth } from './utils/setWidth'
+import { setLineHeight } from './utils/setLineHeight'
 
 var elementObject: FigmaElement | null
 
@@ -23,7 +24,11 @@ figma.on('selectionchange', () => {
       elementObject = {
         'id': node.id,
         'name': null,
-        'textContent': node.characters ? node.characters : null,
+        'textMeta': {
+          'content': node.characters ? node.characters : null,
+          'wordCount': 0,
+          'isSentence': false
+        },
         'isMainContainer': false,
         'style': {
           'position': {
@@ -51,7 +56,7 @@ figma.on('selectionchange', () => {
             'font-family': node.fontName?.family ? node.fontName.family : null,
             'font-size': node.fontSize ? node.fontSize + 'px' : null,
             'font-weight': node.fontWeight ? node.fontWeight : null,
-            // 'line-height': node.lineHeight?.unit == 'PERCENT' ? node.lineHeight?.value + '%': node.lineHeight?.value ? node.lineHeight?.value : null,
+            'line-height': node.lineHeight ? node.lineHeight : null,
             'text-align': node.textAlignHorizontal ? node.textAlignHorizontal : null,
             'letter-spacing': node.letterSpacing?.value ? (node.letterSpacing.value / 100) + 'em' : null,
             'text-transform': node.textCase && node.textCase == 'UPPER' ? 'uppercase' : node.textCase && node.textCase == 'lower' ? 'lowercase' : null
@@ -64,16 +69,20 @@ figma.on('selectionchange', () => {
 
       setData(node, elementObject)
 
+      setLineHeight(elementObject)
+
       setZindex()
 
       // send to UI
-      figma.ui.postMessage({
-        name: 'setWidth', 
-        data: elementObject
-      } as FigmaEvent)
+      if(elementObject.type == 'text' && elementObject.textMeta?.isSentence == false) {
+        figma.ui.postMessage({
+          name: 'setWidth', 
+          data: elementObject
+        } as EventObject)
+      }
     }
 
-    // console.log('state.elements: ', state.elements)
+    console.log('state.elements: ', state.elements)
 
   }
 })
@@ -81,11 +90,10 @@ figma.on('selectionchange', () => {
 // receive from UI
 figma.ui.onmessage = (event) => {
 
-  console.log(event)
-
   // set width
   if(event.name == 'setWidth') {
-    console.log(event)
-    // setWidth(event.data)
+    setWidth(event.data)
+    
+    console.log('state.elements: ', state.elements)
   }
 }

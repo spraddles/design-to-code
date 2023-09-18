@@ -1,8 +1,12 @@
 [
     {
-        "id": "604:14609",
+        "id": "1447:4872",
         "name": "container",
-        "textContent": null,
+        "textMeta": {
+            "content": null,
+            "wordCount": 0,
+            "isSentence": false
+        },
         "isMainContainer": true,
         "style": {
             "position": {
@@ -12,7 +16,7 @@
             },
             "dimensions": {
                 "width": "1804px",
-                "height": "1000px"
+                "height": "1507.00048828125px"
             },
             "colors": {
                 "color": "#f8f6f4",
@@ -22,6 +26,7 @@
                 "font-family": null,
                 "font-size": null,
                 "font-weight": null,
+                "line-height": null,
                 "text-align": null,
                 "letter-spacing": null,
                 "text-transform": null
@@ -32,29 +37,34 @@
         }
     },
     {
-        "id": "I604:14609;544:6365",
-        "name": "shape-0",
-        "textContent": null,
+        "id": "1450:3584",
+        "name": "text-0",
+        "textMeta": {
+            "content": "Customer Experience",
+            "wordCount": 0,
+            "isSentence": false
+        },
         "isMainContainer": false,
         "style": {
             "position": {
-                "top": "237px",
-                "left": "306px",
+                "top": "120.00011413268658px",
+                "left": "576.5px",
                 "z-index": 10
             },
             "dimensions": {
-                "width": "596px",
-                "height": "596px"
+                "width": "617px",
+                "height": "77px"
             },
             "colors": {
-                "color": "#2051ff",
-                "background-color": "#2051ff"
+                "color": "#162c63",
+                "background-color": null
             },
             "fonts": {
-                "font-family": null,
-                "font-size": null,
-                "font-weight": null,
-                "text-align": null,
+                "font-family": "Sans-serif",
+                "font-size": "64px",
+                "font-weight": 336,
+                "line-height": 1.2000000476837158,
+                "text-align": "CENTER",
                 "letter-spacing": null,
                 "text-transform": null
             },
@@ -62,32 +72,37 @@
                 "imageHash": null
             }
         },
-        "type": "shape"
+        "type": "text"
     },
     {
-        "id": "I604:14609;544:6367",
-        "name": "text-0",
-        "textContent": "The products we’ve helped design for small ventures through to global tech companies have millions of users worldwide.",
+        "id": "1450:3585",
+        "name": "text-1",
+        "textMeta": {
+            "content": "Innovative, connected, user-centric customer solutions. ",
+            "wordCount": 0,
+            "isSentence": false
+        },
         "isMainContainer": false,
         "style": {
             "position": {
-                "top": "645px",
-                "left": "336px",
+                "top": "213.00011444091797px",
+                "left": "688.5px",
                 "z-index": 20
             },
             "dimensions": {
-                "width": "508px",
-                "height": "152px"
+                "width": "594px",
+                "height": "58px"
             },
             "colors": {
-                "color": "#ffffff",
+                "color": "#162c63",
                 "background-color": null
             },
             "fonts": {
                 "font-family": "Sans-serif",
-                "font-size": "32px",
+                "font-size": "24px",
                 "font-weight": 336,
-                "text-align": "LEFT",
+                "line-height": 1.2000000476837158,
+                "text-align": "CENTER",
                 "letter-spacing": null,
                 "text-transform": null
             },
@@ -98,62 +113,72 @@
         "type": "text"
     },
     {
-        "id": "I604:14609;544:6368",
-        "name": "text-2",
-        "textContent": "pX",
+        "id": "1450:3586",
+        "name": "shape-3",
+        "textMeta": {
+            "content": null,
+            "wordCount": 0,
+            "isSentence": false
+        },
         "isMainContainer": false,
         "style": {
             "position": {
-                "top": "147px",
-                "left": "171px",
+                "top": "335.00010681152344px",
+                "left": "80px",
                 "z-index": 30
             },
             "dimensions": {
-                "width": "673px",
-                "height": "364px"
+                "width": "1644px",
+                "height": "0px"
             },
             "colors": {
-                "color": "#162c63",
+                "color": null,
                 "background-color": null
             },
             "fonts": {
-                "font-family": "Sans-serif",
-                "font-size": "520px",
-                "font-weight": 469,
-                "text-align": "LEFT",
+                "font-family": null,
+                "font-size": null,
+                "font-weight": null,
+                "line-height": null,
+                "text-align": null,
                 "letter-spacing": null,
-                "text-transform": "uppercase"
+                "text-transform": null
             },
             "image": {
                 "imageHash": null
             }
         },
-        "type": "text"
+        "type": "shape"
     },
     {
-        "id": "I604:14609;544:6369",
-        "name": "shape-3",
-        "textContent": null,
+        "id": "1450:3588",
+        "name": "text-2",
+        "textMeta": {
+            "content": "Employee Experience",
+            "wordCount": 0,
+            "isSentence": false
+        },
         "isMainContainer": false,
         "style": {
             "position": {
-                "top": "185px",
-                "left": "1178.5px",
+                "top": "399.0002350665018px",
+                "left": "583px",
                 "z-index": 40
             },
             "dimensions": {
-                "width": "415.0000305175781px",
-                "height": "22.000009536743164px"
+                "width": "625px",
+                "height": "77px"
             },
             "colors": {
-                "color": null,
+                "color": "#162c63",
                 "background-color": null
             },
             "fonts": {
-                "font-family": null,
-                "font-size": null,
-                "font-weight": null,
-                "text-align": null,
+                "font-family": "Sans-serif",
+                "font-size": "64px",
+                "font-weight": 336,
+                "line-height": 1.2000000476837158,
+                "text-align": "CENTER",
                 "letter-spacing": null,
                 "text-transform": null
             },
@@ -161,34 +186,39 @@
                 "imageHash": null
             }
         },
-        "type": "shape"
+        "type": "text"
     },
     {
-        "id": "I604:14609;544:6373",
-        "name": "text-1",
-        "textContent": "product experience",
+        "id": "1450:3589",
+        "name": "text-3",
+        "textMeta": {
+            "content": "Digital workspaces where employees thrive. ",
+            "wordCount": 0,
+            "isSentence": false
+        },
         "isMainContainer": false,
         "style": {
             "position": {
-                "top": "615px",
-                "left": "336px",
+                "top": "492.00023651123047px",
+                "left": "688.5px",
                 "z-index": 50
             },
             "dimensions": {
-                "width": "250px",
-                "height": "22px"
+                "width": "476px",
+                "height": "58px"
             },
             "colors": {
-                "color": "#ffffff",
+                "color": "#162c63",
                 "background-color": null
             },
             "fonts": {
                 "font-family": "Sans-serif",
-                "font-size": "14px",
-                "font-weight": 400,
-                "text-align": "LEFT",
-                "letter-spacing": "0.4em",
-                "text-transform": "uppercase"
+                "font-size": "24px",
+                "font-weight": 336,
+                "line-height": 1.2000000476837158,
+                "text-align": "CENTER",
+                "letter-spacing": null,
+                "text-transform": null
             },
             "image": {
                 "imageHash": null
@@ -197,29 +227,34 @@
         "type": "text"
     },
     {
-        "id": "I604:14609;544:6375",
-        "name": "text-4",
-        "textContent": "Case studies",
+        "id": "1450:3590",
+        "name": "shape-2",
+        "textMeta": {
+            "content": null,
+            "wordCount": 0,
+            "isSentence": false
+        },
         "isMainContainer": false,
         "style": {
             "position": {
-                "top": "851px",
-                "left": "1484px",
+                "top": "614.000244140625px",
+                "left": "80px",
                 "z-index": 60
             },
             "dimensions": {
-                "width": "96px",
-                "height": "16px"
+                "width": "1644px",
+                "height": "0px"
             },
             "colors": {
-                "color": "#162c63",
+                "color": null,
                 "background-color": null
             },
             "fonts": {
-                "font-family": "Sans-serif",
-                "font-size": "16px",
-                "font-weight": 336,
-                "text-align": "LEFT",
+                "font-family": null,
+                "font-size": null,
+                "font-weight": null,
+                "line-height": null,
+                "text-align": null,
                 "letter-spacing": null,
                 "text-transform": null
             },
@@ -227,55 +262,26 @@
                 "imageHash": null
             }
         },
-        "type": "text"
+        "type": "shape"
     },
     {
-        "id": "I604:14609;544:6376",
-        "name": "shape-2",
-        "textContent": null,
+        "id": "1450:3592",
+        "name": "text-4",
+        "textMeta": {
+            "content": "Product Experience",
+            "wordCount": 0,
+            "isSentence": false
+        },
         "isMainContainer": false,
         "style": {
             "position": {
-                "top": "855px",
-                "left": "1377px",
+                "top": "678.000349388094px",
+                "left": "605.5px",
                 "z-index": 70
             },
             "dimensions": {
-                "width": "81px",
-                "height": "4px"
-            },
-            "colors": {
-                "color": "#e83d32",
-                "background-color": "#e83d32"
-            },
-            "fonts": {
-                "font-family": null,
-                "font-size": null,
-                "font-weight": null,
-                "text-align": null,
-                "letter-spacing": null,
-                "text-transform": null
-            },
-            "image": {
-                "imageHash": null
-            }
-        },
-        "type": "shape"
-    },
-    {
-        "id": "I604:14609;570:6805",
-        "name": "text-3",
-        "textContent": "Check out how we helped SyncTech revolutionise construction through a remote project management app.",
-        "isMainContainer": false,
-        "style": {
-            "position": {
-                "top": "751px",
-                "left": "1377px",
-                "z-index": 80
-            },
-            "dimensions": {
-                "width": "271px",
-                "height": "78px"
+                "width": "561px",
+                "height": "77px"
             },
             "colors": {
                 "color": "#162c63",
@@ -283,9 +289,10 @@
             },
             "fonts": {
                 "font-family": "Sans-serif",
-                "font-size": "16px",
+                "font-size": "64px",
                 "font-weight": 336,
-                "text-align": "LEFT",
+                "line-height": 1.2000000476837158,
+                "text-align": "CENTER",
                 "letter-spacing": null,
                 "text-transform": null
             },
@@ -296,19 +303,61 @@
         "type": "text"
     },
     {
-        "id": "I604:14609;570:7282",
-        "name": "shape-4",
-        "textContent": null,
+        "id": "1450:3593",
+        "name": "text-5",
+        "textMeta": {
+            "content": "Laser focused on your growth and ready to help you scale. ",
+            "wordCount": 11,
+            "isSentence": true
+        },
         "isMainContainer": false,
         "style": {
             "position": {
-                "top": "463px",
-                "left": "902px",
+                "top": "771.0003509521484px",
+                "left": "688.5px",
+                "z-index": 80
+            },
+            "dimensions": {
+                "width": "427px",
+                "height": "58px"
+            },
+            "colors": {
+                "color": "#162c63",
+                "background-color": null
+            },
+            "fonts": {
+                "font-family": "Sans-serif",
+                "font-size": "24px",
+                "font-weight": 336,
+                "line-height": 1.2000000476837158,
+                "text-align": "CENTER",
+                "letter-spacing": null,
+                "text-transform": null
+            },
+            "image": {
+                "imageHash": null
+            }
+        },
+        "type": "text"
+    },
+    {
+        "id": "1450:3594",
+        "name": "shape-1",
+        "textMeta": {
+            "content": null,
+            "wordCount": 0,
+            "isSentence": false
+        },
+        "isMainContainer": false,
+        "style": {
+            "position": {
+                "top": "893.0003662109375px",
+                "left": "80px",
                 "z-index": 90
             },
             "dimensions": {
-                "width": "371px",
-                "height": "369px"
+                "width": "1644px",
+                "height": "0px"
             },
             "colors": {
                 "color": null,
@@ -318,6 +367,7 @@
                 "font-family": null,
                 "font-size": null,
                 "font-weight": null,
+                "line-height": null,
                 "text-align": null,
                 "letter-spacing": null,
                 "text-transform": null
@@ -329,19 +379,99 @@
         "type": "shape"
     },
     {
-        "id": "I604:14609;2308:37913",
-        "name": "shape-1",
-        "textContent": null,
+        "id": "1450:3596",
+        "name": "text-6",
+        "textMeta": {
+            "content": "Digital Advisory",
+            "wordCount": 0,
+            "isSentence": false
+        },
         "isMainContainer": false,
         "style": {
             "position": {
-                "top": "463px",
-                "left": "1272px",
+                "top": "957.0004489116182px",
+                "left": "669px",
                 "z-index": 100
             },
             "dimensions": {
-                "width": "226px",
-                "height": "226px"
+                "width": "443px",
+                "height": "77px"
+            },
+            "colors": {
+                "color": "#162c63",
+                "background-color": null
+            },
+            "fonts": {
+                "font-family": "Sans-serif",
+                "font-size": "64px",
+                "font-weight": 336,
+                "line-height": 1.2000000476837158,
+                "text-align": "CENTER",
+                "letter-spacing": null,
+                "text-transform": null
+            },
+            "image": {
+                "imageHash": null
+            }
+        },
+        "type": "text"
+    },
+    {
+        "id": "1450:3597",
+        "name": "text-7",
+        "textMeta": {
+            "content": "A world class strategy to move your business forward.  ",
+            "wordCount": 9,
+            "isSentence": true
+        },
+        "isMainContainer": false,
+        "style": {
+            "position": {
+                "top": "1050.0004501342773px",
+                "left": "688.5px",
+                "z-index": 110
+            },
+            "dimensions": {
+                "width": "427px",
+                "height": "58px"
+            },
+            "colors": {
+                "color": "#162c63",
+                "background-color": null
+            },
+            "fonts": {
+                "font-family": "Sans-serif",
+                "font-size": "24px",
+                "font-weight": 336,
+                "line-height": 1.2000000476837158,
+                "text-align": "CENTER",
+                "letter-spacing": null,
+                "text-transform": null
+            },
+            "image": {
+                "imageHash": null
+            }
+        },
+        "type": "text"
+    },
+    {
+        "id": "1450:3598",
+        "name": "shape-0",
+        "textMeta": {
+            "content": null,
+            "wordCount": 0,
+            "isSentence": false
+        },
+        "isMainContainer": false,
+        "style": {
+            "position": {
+                "top": "1172.00048828125px",
+                "left": "80px",
+                "z-index": 120
+            },
+            "dimensions": {
+                "width": "1644px",
+                "height": "0px"
             },
             "colors": {
                 "color": null,
@@ -351,6 +481,7 @@
                 "font-family": null,
                 "font-size": null,
                 "font-weight": null,
+                "line-height": null,
                 "text-align": null,
                 "letter-spacing": null,
                 "text-transform": null
@@ -360,5 +491,81 @@
             }
         },
         "type": "shape"
+    },
+    {
+        "id": "1450:3600",
+        "name": "text-8",
+        "textMeta": {
+            "content": "Managed Services",
+            "wordCount": 0,
+            "isSentence": false
+        },
+        "isMainContainer": false,
+        "style": {
+            "position": {
+                "top": "1236.0005861296886px",
+                "left": "626px",
+                "z-index": 130
+            },
+            "dimensions": {
+                "width": "532px",
+                "height": "77px"
+            },
+            "colors": {
+                "color": "#162c63",
+                "background-color": null
+            },
+            "fonts": {
+                "font-family": "Sans-serif",
+                "font-size": "64px",
+                "font-weight": 336,
+                "line-height": 1.2000000476837158,
+                "text-align": "CENTER",
+                "letter-spacing": null,
+                "text-transform": null
+            },
+            "image": {
+                "imageHash": null
+            }
+        },
+        "type": "text"
+    },
+    {
+        "id": "1450:3601",
+        "name": "text-9",
+        "textMeta": {
+            "content": "Maintaining secure, optimised and high performing digital products",
+            "wordCount": 8,
+            "isSentence": true
+        },
+        "isMainContainer": false,
+        "style": {
+            "position": {
+                "top": "1329.000587463379px",
+                "left": "688.5px",
+                "z-index": 140
+            },
+            "dimensions": {
+                "width": "427px",
+                "height": "58px"
+            },
+            "colors": {
+                "color": "#162c63",
+                "background-color": null
+            },
+            "fonts": {
+                "font-family": "Sans-serif",
+                "font-size": "24px",
+                "font-weight": 336,
+                "line-height": 1.2000000476837158,
+                "text-align": "CENTER",
+                "letter-spacing": null,
+                "text-transform": null
+            },
+            "image": {
+                "imageHash": null
+            }
+        },
+        "type": "text"
     }
 ]

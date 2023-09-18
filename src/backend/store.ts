@@ -1,4 +1,4 @@
-import { FigmaElement } from './types'
+import { FigmaElement } from '../types'
 
 export var state = {
 

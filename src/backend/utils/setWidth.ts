@@ -1,3 +1,8 @@
+import { state } from '../store'
+import { FigmaElement } from '../../types'
+
 export const setWidth = (data: any) => {
-    return console.log('i am the final step')
+
+    const index = state.elements.findIndex((element: FigmaElement) => element.id == data.id)
+    return state.elements[index].style.dimensions.width = data.width
 }

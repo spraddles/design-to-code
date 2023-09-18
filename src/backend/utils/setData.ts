@@ -1,4 +1,4 @@
-import { state } from '../../store'
+import { state } from '../store'
 import { FigmaElement } from '../../types'
 
 export const setData = (node: any, elementObject: FigmaElement) => {
@@ -20,7 +20,15 @@ export const setData = (node: any, elementObject: FigmaElement) => {
         state.textElementIndex = state.textElementIndex + 1
         elementObject.type = 'text'
         elementObject.name = `text-${state.textElementIndex}`
-        elementObject.style.fonts['font-family'] = 'Sans-serif'
+        elementObject.style.fonts['font-family'] = 'Sans-serif' // override font
+        // words
+        if(elementObject.textMeta?.content) {
+            const wordCount = elementObject.textMeta.content.trim().split(/\s+/).length
+            if(wordCount > 5) {
+                elementObject.textMeta.wordCount = wordCount
+                elementObject.textMeta.isSentence = true
+             }
+        }
     }
     // image:
     if(elementObject.style.image['imageHash'] !== null) {

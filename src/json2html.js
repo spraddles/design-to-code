@@ -1,10 +1,9 @@
 import * as fs from 'fs'
-// import { Element } from './store'
 
 const name = 'example'
 const configFile = './src/config.json'
-const targetHtmlFile = `./dist/${name}.html`
-const targetCssFile = `./dist/${name}.css`
+const targetHtmlFile = `./output/${name}.html`
+const targetCssFile = `./output/${name}.css`
 
 // var elementsArray: Array<Element> = []
 var elementsArray = []
@@ -23,7 +22,7 @@ const htmlString = () => {
     htmlString+= '<div id="container">'
     elementsArray.forEach((element) => {
         if(element.name !== "container") {
-            htmlString+= `<div id="${element.name}">${element.type == 'text' ? element.textContent : ''}</div>`
+            htmlString+= `<div id="${element.name}">${element.type == 'text' ? element.textMeta.content : ''}</div>`
         }
     })
     htmlString+= '</div>'
@@ -40,6 +39,7 @@ const cssString = () => {
                 position: absolute;
                 ${e.style.position && e.style.position.top ? `top: ${e.style.position.top};` : '' }
                 ${e.style.position && e.style.position.left ? `left: ${e.style.position.left};` : '' }
+                ${e.style.position && e.style.position['z-index'] ? `z-index: ${e.style.position['z-index']};` : '' }
                 /* dimensions */
                 ${e.style.dimensions && e.style.dimensions.width ? `width: ${e.style.dimensions.width};` : '' }
                 ${e.style.dimensions && e.style.dimensions.height ? `height: ${e.style.dimensions.height};` : '' }

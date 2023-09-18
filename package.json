@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "vite build --config vite-ts.config.js && vite build --config vite-sfc.config.js --watch",
     "build": "vite build --config vite-ts.config.js && vite build --config vite-sfc.config.js",
-    "json2html": "node ./src/json2html"
+    "convert": "node ./src/json2html"
   },
   "author": "",
   "license": "",

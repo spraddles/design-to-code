@@ -1,4 +1,4 @@
-import { state } from '../../store'
+import { state } from '../store'
 import { FigmaElement } from '../../types'
 
 export const setZindex = () => {
