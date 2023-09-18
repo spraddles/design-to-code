@@ -5,6 +5,7 @@ import { setData } from './utils/setData'
 import { setZindex } from './utils/setZindex'
 import { setWidth } from './utils/setWidth'
 import { setLineHeight } from './utils/setLineHeight'
+import { setBorder } from './utils/setBorder'
 
 var elementObject: FigmaElement | null
 
@@ -63,13 +64,16 @@ figma.on('selectionchange', () => {
           },
           'image': {
             'imageHash': node.fills[0]?.imageHash ? node.fills[0].imageHash : null
-          }
+          },
+          'border': 'none'
         }
       }
 
       setData(node, elementObject)
 
       setLineHeight(elementObject)
+
+      setBorder(node, elementObject)
 
       setZindex()
 

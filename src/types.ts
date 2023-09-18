@@ -35,6 +35,7 @@ export interface FigmaElement {
         "image": {
             "imageHash": string | null
         }
+        "border": string
     }
 }
 

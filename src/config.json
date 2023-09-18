@@ -33,7 +33,8 @@
             },
             "image": {
                 "imageHash": null
-            }
+            },
+            "border": "none"
         }
     },
     {
@@ -70,7 +71,8 @@
             },
             "image": {
                 "imageHash": null
-            }
+            },
+            "border": "none"
         },
         "type": "text"
     },
@@ -108,7 +110,8 @@
             },
             "image": {
                 "imageHash": null
-            }
+            },
+            "border": "none"
         },
         "type": "text"
     },
@@ -146,7 +149,8 @@
             },
             "image": {
                 "imageHash": null
-            }
+            },
+            "border": "1px SOLID #e3ded5"
         },
         "type": "shape"
     },
@@ -184,7 +188,8 @@
             },
             "image": {
                 "imageHash": null
-            }
+            },
+            "border": "none"
         },
         "type": "text"
     },
@@ -222,7 +227,8 @@
             },
             "image": {
                 "imageHash": null
-            }
+            },
+            "border": "none"
         },
         "type": "text"
     },
@@ -260,7 +266,8 @@
             },
             "image": {
                 "imageHash": null
-            }
+            },
+            "border": "1px SOLID #e3ded5"
         },
         "type": "shape"
     },
@@ -298,7 +305,8 @@
             },
             "image": {
                 "imageHash": null
-            }
+            },
+            "border": "none"
         },
         "type": "text"
     },
@@ -336,7 +344,8 @@
             },
             "image": {
                 "imageHash": null
-            }
+            },
+            "border": "none"
         },
         "type": "text"
     },
@@ -374,7 +383,8 @@
             },
             "image": {
                 "imageHash": null
-            }
+            },
+            "border": "1px SOLID #e3ded5"
         },
         "type": "shape"
     },
@@ -412,7 +422,8 @@
             },
             "image": {
                 "imageHash": null
-            }
+            },
+            "border": "none"
         },
         "type": "text"
     },
@@ -450,7 +461,8 @@
             },
             "image": {
                 "imageHash": null
-            }
+            },
+            "border": "none"
         },
         "type": "text"
     },
@@ -488,7 +500,8 @@
             },
             "image": {
                 "imageHash": null
-            }
+            },
+            "border": "1px SOLID #e3ded5"
         },
         "type": "shape"
     },
@@ -526,7 +539,8 @@
             },
             "image": {
                 "imageHash": null
-            }
+            },
+            "border": "none"
         },
         "type": "text"
     },
@@ -564,7 +578,8 @@
             },
             "image": {
                 "imageHash": null
-            }
+            },
+            "border": "none"
         },
         "type": "text"
     }

@@ -54,6 +54,8 @@ const cssString = () => {
                 ${e.style.fonts && e.style.fonts["text-align"] ? `text-align: ${e.style.fonts["text-align"]};` : '' }
                 ${e.style.fonts && e.style.fonts["letter-spacing"] ? `letter-spacing: ${e.style.fonts["letter-spacing"]};` : '' }
                 ${e.style.fonts && e.style.fonts["text-transform"] ? `text-transform: ${e.style.fonts["text-transform"]};` : '' }
+                /* border */
+                ${e.style.border ? `border: ${e.style.border};` : '' }
             }
         `
     })
