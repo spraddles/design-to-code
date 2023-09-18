@@ -1,6 +1,6 @@
 [
     {
-        "id": "1447:4872",
+        "id": "1245:11842",
         "name": "container",
         "textMeta": {
             "content": null,
@@ -16,7 +16,7 @@
             },
             "dimensions": {
                 "width": "1804px",
-                "height": "1507.00048828125px"
+                "height": "916px"
             },
             "colors": {
                 "color": "#f8f6f4",
@@ -38,23 +38,23 @@
         }
     },
     {
-        "id": "1450:3584",
+        "id": "I1245:11842;487:7556",
         "name": "text-0",
         "textMeta": {
-            "content": "Customer Experience",
-            "wordCount": 0,
-            "isSentence": false
+            "content": "We take projects from inception to market, all in-house, with your team and ours.",
+            "wordCount": 14,
+            "isSentence": true
         },
         "isMainContainer": false,
         "style": {
             "position": {
-                "top": "120.00011413268658px",
-                "left": "576.5px",
+                "top": "145px",
+                "left": "306px",
                 "z-index": 10
             },
             "dimensions": {
-                "width": "617px",
-                "height": "77px"
+                "width": "729px",
+                "height": "174px"
             },
             "colors": {
                 "color": "#162c63",
@@ -62,38 +62,37 @@
             },
             "fonts": {
                 "font-family": "Sans-serif",
-                "font-size": "64px",
+                "font-size": "48px",
                 "font-weight": 336,
                 "line-height": 1.2000000476837158,
-                "text-align": "CENTER",
+                "text-align": "LEFT",
                 "letter-spacing": null,
                 "text-transform": null
             },
             "image": {
                 "imageHash": null
-            },
-            "border": "none"
+            }
         },
         "type": "text"
     },
     {
-        "id": "1450:3585",
+        "id": "I1245:11842;487:7557",
         "name": "text-1",
         "textMeta": {
-            "content": "Innovative, connected, user-centric customer solutions. ",
-            "wordCount": 0,
-            "isSentence": false
+            "content": "If you've made it this far you're probably in need of some digital",
+            "wordCount": 13,
+            "isSentence": true
         },
         "isMainContainer": false,
         "style": {
             "position": {
-                "top": "213.00011444091797px",
-                "left": "688.5px",
+                "top": "335px",
+                "left": "306px",
                 "z-index": 20
             },
             "dimensions": {
-                "width": "594px",
-                "height": "58px"
+                "width": "446px",
+                "height": "68px"
             },
             "colors": {
                 "color": "#162c63",
@@ -103,75 +102,35 @@
                 "font-family": "Sans-serif",
                 "font-size": "24px",
                 "font-weight": 336,
-                "line-height": 1.2000000476837158,
-                "text-align": "CENTER",
+                "line-height": 1.399999976158142,
+                "text-align": "LEFT",
                 "letter-spacing": null,
                 "text-transform": null
             },
             "image": {
                 "imageHash": null
-            },
-            "border": "none"
+            }
         },
         "type": "text"
     },
     {
-        "id": "1450:3586",
-        "name": "shape-3",
+        "id": "I1245:11842;487:7560",
+        "name": "text-2",
         "textMeta": {
-            "content": null,
+            "content": "Ready to play?",
             "wordCount": 0,
             "isSentence": false
         },
         "isMainContainer": false,
         "style": {
             "position": {
-                "top": "335.00010681152344px",
-                "left": "80px",
+                "top": "435px",
+                "left": "413px",
                 "z-index": 30
             },
             "dimensions": {
-                "width": "1644px",
-                "height": "0px"
-            },
-            "colors": {
-                "color": null,
-                "background-color": null
-            },
-            "fonts": {
-                "font-family": null,
-                "font-size": null,
-                "font-weight": null,
-                "line-height": null,
-                "text-align": null,
-                "letter-spacing": null,
-                "text-transform": null
-            },
-            "image": {
-                "imageHash": null
-            },
-            "border": "1px SOLID #e3ded5"
-        },
-        "type": "shape"
-    },
-    {
-        "id": "1450:3588",
-        "name": "text-2",
-        "textMeta": {
-            "content": "Employee Experience",
-            "wordCount": 0,
-            "isSentence": false
-        },
-        "isMainContainer": false,
-        "style": {
-            "position": {
-                "top": "399.0002350665018px",
-                "left": "583px",
-                "z-index": 40
-            },
-            "dimensions": {
-                "width": "625px",
-                "height": "77px"
+                "width": "108px",
+                "height": "16px"
             },
             "colors": {
                 "color": "#162c63",
@@ -179,295 +138,21 @@
             },
             "fonts": {
                 "font-family": "Sans-serif",
-                "font-size": "64px",
+                "font-size": "16px",
                 "font-weight": 336,
-                "line-height": 1.2000000476837158,
-                "text-align": "CENTER",
+                "line-height": "16px",
+                "text-align": "LEFT",
                 "letter-spacing": null,
                 "text-transform": null
             },
             "image": {
                 "imageHash": null
-            },
-            "border": "none"
+            }
         },
         "type": "text"
     },
     {
-        "id": "1450:3589",
-        "name": "text-3",
-        "textMeta": {
-            "content": "Digital workspaces where employees thrive. ",
-            "wordCount": 0,
-            "isSentence": false
-        },
-        "isMainContainer": false,
-        "style": {
-            "position": {
-                "top": "492.00023651123047px",
-                "left": "688.5px",
-                "z-index": 50
-            },
-            "dimensions": {
-                "width": "476px",
-                "height": "58px"
-            },
-            "colors": {
-                "color": "#162c63",
-                "background-color": null
-            },
-            "fonts": {
-                "font-family": "Sans-serif",
-                "font-size": "24px",
-                "font-weight": 336,
-                "line-height": 1.2000000476837158,
-                "text-align": "CENTER",
-                "letter-spacing": null,
-                "text-transform": null
-            },
-            "image": {
-                "imageHash": null
-            },
-            "border": "none"
-        },
-        "type": "text"
-    },
-    {
-        "id": "1450:3590",
-        "name": "shape-2",
-        "textMeta": {
-            "content": null,
-            "wordCount": 0,
-            "isSentence": false
-        },
-        "isMainContainer": false,
-        "style": {
-            "position": {
-                "top": "614.000244140625px",
-                "left": "80px",
-                "z-index": 60
-            },
-            "dimensions": {
-                "width": "1644px",
-                "height": "0px"
-            },
-            "colors": {
-                "color": null,
-                "background-color": null
-            },
-            "fonts": {
-                "font-family": null,
-                "font-size": null,
-                "font-weight": null,
-                "line-height": null,
-                "text-align": null,
-                "letter-spacing": null,
-                "text-transform": null
-            },
-            "image": {
-                "imageHash": null
-            },
-            "border": "1px SOLID #e3ded5"
-        },
-        "type": "shape"
-    },
-    {
-        "id": "1450:3592",
-        "name": "text-4",
-        "textMeta": {
-            "content": "Product Experience",
-            "wordCount": 0,
-            "isSentence": false
-        },
-        "isMainContainer": false,
-        "style": {
-            "position": {
-                "top": "678.000349388094px",
-                "left": "605.5px",
-                "z-index": 70
-            },
-            "dimensions": {
-                "width": "561px",
-                "height": "77px"
-            },
-            "colors": {
-                "color": "#162c63",
-                "background-color": null
-            },
-            "fonts": {
-                "font-family": "Sans-serif",
-                "font-size": "64px",
-                "font-weight": 336,
-                "line-height": 1.2000000476837158,
-                "text-align": "CENTER",
-                "letter-spacing": null,
-                "text-transform": null
-            },
-            "image": {
-                "imageHash": null
-            },
-            "border": "none"
-        },
-        "type": "text"
-    },
-    {
-        "id": "1450:3593",
-        "name": "text-5",
-        "textMeta": {
-            "content": "Laser focused on your growth and ready to help you scale. ",
-            "wordCount": 11,
-            "isSentence": true
-        },
-        "isMainContainer": false,
-        "style": {
-            "position": {
-                "top": "771.0003509521484px",
-                "left": "688.5px",
-                "z-index": 80
-            },
-            "dimensions": {
-                "width": "427px",
-                "height": "58px"
-            },
-            "colors": {
-                "color": "#162c63",
-                "background-color": null
-            },
-            "fonts": {
-                "font-family": "Sans-serif",
-                "font-size": "24px",
-                "font-weight": 336,
-                "line-height": 1.2000000476837158,
-                "text-align": "CENTER",
-                "letter-spacing": null,
-                "text-transform": null
-            },
-            "image": {
-                "imageHash": null
-            },
-            "border": "none"
-        },
-        "type": "text"
-    },
-    {
-        "id": "1450:3594",
-        "name": "shape-1",
-        "textMeta": {
-            "content": null,
-            "wordCount": 0,
-            "isSentence": false
-        },
-        "isMainContainer": false,
-        "style": {
-            "position": {
-                "top": "893.0003662109375px",
-                "left": "80px",
-                "z-index": 90
-            },
-            "dimensions": {
-                "width": "1644px",
-                "height": "0px"
-            },
-            "colors": {
-                "color": null,
-                "background-color": null
-            },
-            "fonts": {
-                "font-family": null,
-                "font-size": null,
-                "font-weight": null,
-                "line-height": null,
-                "text-align": null,
-                "letter-spacing": null,
-                "text-transform": null
-            },
-            "image": {
-                "imageHash": null
-            },
-            "border": "1px SOLID #e3ded5"
-        },
-        "type": "shape"
-    },
-    {
-        "id": "1450:3596",
-        "name": "text-6",
-        "textMeta": {
-            "content": "Digital Advisory",
-            "wordCount": 0,
-            "isSentence": false
-        },
-        "isMainContainer": false,
-        "style": {
-            "position": {
-                "top": "957.0004489116182px",
-                "left": "669px",
-                "z-index": 100
-            },
-            "dimensions": {
-                "width": "443px",
-                "height": "77px"
-            },
-            "colors": {
-                "color": "#162c63",
-                "background-color": null
-            },
-            "fonts": {
-                "font-family": "Sans-serif",
-                "font-size": "64px",
-                "font-weight": 336,
-                "line-height": 1.2000000476837158,
-                "text-align": "CENTER",
-                "letter-spacing": null,
-                "text-transform": null
-            },
-            "image": {
-                "imageHash": null
-            },
-            "border": "none"
-        },
-        "type": "text"
-    },
-    {
-        "id": "1450:3597",
-        "name": "text-7",
-        "textMeta": {
-            "content": "A world class strategy to move your business forward.  ",
-            "wordCount": 9,
-            "isSentence": true
-        },
-        "isMainContainer": false,
-        "style": {
-            "position": {
-                "top": "1050.0004501342773px",
-                "left": "688.5px",
-                "z-index": 110
-            },
-            "dimensions": {
-                "width": "427px",
-                "height": "58px"
-            },
-            "colors": {
-                "color": "#162c63",
-                "background-color": null
-            },
-            "fonts": {
-                "font-family": "Sans-serif",
-                "font-size": "24px",
-                "font-weight": 336,
-                "line-height": 1.2000000476837158,
-                "text-align": "CENTER",
-                "letter-spacing": null,
-                "text-transform": null
-            },
-            "image": {
-                "imageHash": null
-            },
-            "border": "none"
-        },
-        "type": "text"
-    },
-    {
-        "id": "1450:3598",
+        "id": "I1245:11842;487:7561",
         "name": "shape-0",
         "textMeta": {
             "content": null,
@@ -477,17 +162,17 @@
         "isMainContainer": false,
         "style": {
             "position": {
-                "top": "1172.00048828125px",
-                "left": "80px",
-                "z-index": 120
+                "top": "439px",
+                "left": "306px",
+                "z-index": 40
             },
             "dimensions": {
-                "width": "1644px",
-                "height": "0px"
+                "width": "81px",
+                "height": "4px"
             },
             "colors": {
-                "color": null,
-                "background-color": null
+                "color": "#e83d32",
+                "background-color": "#e83d32"
             },
             "fonts": {
                 "font-family": null,
@@ -501,28 +186,28 @@
             "image": {
                 "imageHash": null
             },
-            "border": "1px SOLID #e3ded5"
+            "border": "none"
         },
         "type": "shape"
     },
     {
-        "id": "1450:3600",
-        "name": "text-8",
+        "id": "I1245:11842;487:7563",
+        "name": "text-3",
         "textMeta": {
-            "content": "Managed Services",
+            "content": "home",
             "wordCount": 0,
             "isSentence": false
         },
         "isMainContainer": false,
         "style": {
             "position": {
-                "top": "1236.0005861296886px",
-                "left": "626px",
-                "z-index": 130
+                "top": "753.000007748722px",
+                "left": "305.99999928474426px",
+                "z-index": 50
             },
             "dimensions": {
-                "width": "532px",
-                "height": "77px"
+                "width": "37px",
+                "height": "8px"
             },
             "colors": {
                 "color": "#162c63",
@@ -530,38 +215,227 @@
             },
             "fonts": {
                 "font-family": "Sans-serif",
-                "font-size": "64px",
-                "font-weight": 336,
-                "line-height": 1.2000000476837158,
-                "text-align": "CENTER",
+                "font-size": "12px",
+                "font-weight": 767,
+                "line-height": "32px",
+                "text-align": "RIGHT",
                 "letter-spacing": null,
-                "text-transform": null
+                "text-transform": "uppercase"
             },
             "image": {
                 "imageHash": null
-            },
-            "border": "none"
+            }
         },
         "type": "text"
     },
     {
-        "id": "1450:3601",
-        "name": "text-9",
+        "id": "I1245:11842;487:7564",
+        "name": "text-4",
         "textMeta": {
-            "content": "Maintaining secure, optimised and high performing digital products",
-            "wordCount": 8,
+            "content": "Play",
+            "wordCount": 0,
+            "isSentence": false
+        },
+        "isMainContainer": false,
+        "style": {
+            "position": {
+                "top": "753.0000066599255px",
+                "left": "383px",
+                "z-index": 60
+            },
+            "dimensions": {
+                "width": "32px",
+                "height": "8px"
+            },
+            "colors": {
+                "color": "#162c63",
+                "background-color": null
+            },
+            "fonts": {
+                "font-family": "Sans-serif",
+                "font-size": "12px",
+                "font-weight": 767,
+                "line-height": "32px",
+                "text-align": "RIGHT",
+                "letter-spacing": null,
+                "text-transform": "uppercase"
+            },
+            "image": {
+                "imageHash": null
+            }
+        },
+        "type": "text"
+    },
+    {
+        "id": "I1245:11842;487:7565",
+        "name": "text-5",
+        "textMeta": {
+            "content": "WORK",
+            "wordCount": 0,
+            "isSentence": false
+        },
+        "isMainContainer": false,
+        "style": {
+            "position": {
+                "top": "753.0000085752508px",
+                "left": "453px",
+                "z-index": 70
+            },
+            "dimensions": {
+                "width": "39px",
+                "height": "8px"
+            },
+            "colors": {
+                "color": "#162c63",
+                "background-color": null
+            },
+            "fonts": {
+                "font-family": "Sans-serif",
+                "font-size": "12px",
+                "font-weight": 767,
+                "line-height": "32px",
+                "text-align": "RIGHT",
+                "letter-spacing": null,
+                "text-transform": "uppercase"
+            },
+            "image": {
+                "imageHash": null
+            }
+        },
+        "type": "text"
+    },
+    {
+        "id": "I1245:11842;487:7566",
+        "name": "text-6",
+        "textMeta": {
+            "content": "LABS",
+            "wordCount": 0,
+            "isSentence": false
+        },
+        "isMainContainer": false,
+        "style": {
+            "position": {
+                "top": "753.0000067473484px",
+                "left": "534px",
+                "z-index": 80
+            },
+            "dimensions": {
+                "width": "34px",
+                "height": "8px"
+            },
+            "colors": {
+                "color": "#162c63",
+                "background-color": null
+            },
+            "fonts": {
+                "font-family": "Sans-serif",
+                "font-size": "12px",
+                "font-weight": 767,
+                "line-height": "32px",
+                "text-align": "RIGHT",
+                "letter-spacing": null,
+                "text-transform": "uppercase"
+            },
+            "image": {
+                "imageHash": null
+            }
+        },
+        "type": "text"
+    },
+    {
+        "id": "I1245:11842;487:7567",
+        "name": "text-7",
+        "textMeta": {
+            "content": "about",
+            "wordCount": 0,
+            "isSentence": false
+        },
+        "isMainContainer": false,
+        "style": {
+            "position": {
+                "top": "753.0000094017787px",
+                "left": "605px",
+                "z-index": 90
+            },
+            "dimensions": {
+                "width": "44px",
+                "height": "8px"
+            },
+            "colors": {
+                "color": "#162c63",
+                "background-color": null
+            },
+            "fonts": {
+                "font-family": "Sans-serif",
+                "font-size": "12px",
+                "font-weight": 767,
+                "line-height": "32px",
+                "text-align": "RIGHT",
+                "letter-spacing": null,
+                "text-transform": "uppercase"
+            },
+            "image": {
+                "imageHash": null
+            }
+        },
+        "type": "text"
+    },
+    {
+        "id": "I1245:11842;487:7568",
+        "name": "text-8",
+        "textMeta": {
+            "content": "contact",
+            "wordCount": 0,
+            "isSentence": false
+        },
+        "isMainContainer": false,
+        "style": {
+            "position": {
+                "top": "753.0000125807455px",
+                "left": "690px",
+                "z-index": 100
+            },
+            "dimensions": {
+                "width": "59px",
+                "height": "8px"
+            },
+            "colors": {
+                "color": "#162c63",
+                "background-color": null
+            },
+            "fonts": {
+                "font-family": "Sans-serif",
+                "font-size": "12px",
+                "font-weight": 767,
+                "line-height": "32px",
+                "text-align": "RIGHT",
+                "letter-spacing": null,
+                "text-transform": "uppercase"
+            },
+            "image": {
+                "imageHash": null
+            }
+        },
+        "type": "text"
+    },
+    {
+        "id": "I1245:11842;487:7569",
+        "name": "text-10",
+        "textMeta": {
+            "content": "We acknowledge the Traditional Owners of Country throughout Australia. We pay our respects to Elders past and present.",
+            "wordCount": 18,
             "isSentence": true
         },
         "isMainContainer": false,
         "style": {
             "position": {
-                "top": "1329.000587463379px",
-                "left": "688.5px",
-                "z-index": 140
+                "top": "825px",
+                "left": "306px",
+                "z-index": 110
             },
             "dimensions": {
-                "width": "427px",
-                "height": "58px"
+                "width": "417px",
+                "height": "34px"
             },
             "colors": {
                 "color": "#162c63",
@@ -569,10 +443,124 @@
             },
             "fonts": {
                 "font-family": "Sans-serif",
-                "font-size": "24px",
+                "font-size": "12px",
                 "font-weight": 336,
-                "line-height": 1.2000000476837158,
-                "text-align": "CENTER",
+                "line-height": "16px",
+                "text-align": "LEFT",
+                "letter-spacing": null,
+                "text-transform": null
+            },
+            "image": {
+                "imageHash": null
+            }
+        },
+        "type": "text"
+    },
+    {
+        "id": "I1245:11842;487:7572",
+        "name": "text-9",
+        "textMeta": {
+            "content": "© 2022 Hide and Seek Digital",
+            "wordCount": 6,
+            "isSentence": true
+        },
+        "isMainContainer": false,
+        "style": {
+            "position": {
+                "top": "793px",
+                "left": "306px",
+                "z-index": 120
+            },
+            "dimensions": {
+                "width": "227px",
+                "height": "16px"
+            },
+            "colors": {
+                "color": "#162c63",
+                "background-color": null
+            },
+            "fonts": {
+                "font-family": "Sans-serif",
+                "font-size": "12px",
+                "font-weight": 336,
+                "line-height": "16px",
+                "text-align": "LEFT",
+                "letter-spacing": null,
+                "text-transform": null
+            },
+            "image": {
+                "imageHash": null
+            }
+        },
+        "type": "text"
+    },
+    {
+        "id": "I1245:11842;487:7574",
+        "name": "text-11",
+        "textMeta": {
+            "content": "Linkedin         Instagram",
+            "wordCount": 0,
+            "isSentence": false
+        },
+        "isMainContainer": false,
+        "style": {
+            "position": {
+                "top": "737px",
+                "left": "1326px",
+                "z-index": 130
+            },
+            "dimensions": {
+                "width": "173px",
+                "height": "24px"
+            },
+            "colors": {
+                "color": "#162c63",
+                "background-color": null
+            },
+            "fonts": {
+                "font-family": "Sans-serif",
+                "font-size": "16px",
+                "font-weight": 336,
+                "line-height": "24px",
+                "text-align": "LEFT",
+                "letter-spacing": null,
+                "text-transform": null
+            },
+            "image": {
+                "imageHash": null
+            }
+        },
+        "type": "text"
+    },
+    {
+        "id": "I1245:11842;487:7576",
+        "name": "shape-1",
+        "textMeta": {
+            "content": null,
+            "wordCount": 0,
+            "isSentence": false
+        },
+        "isMainContainer": false,
+        "style": {
+            "position": {
+                "top": "79px",
+                "left": "1202px",
+                "z-index": 140
+            },
+            "dimensions": {
+                "width": "296px",
+                "height": "294px"
+            },
+            "colors": {
+                "color": "#162c63",
+                "background-color": "#162c63"
+            },
+            "fonts": {
+                "font-family": null,
+                "font-size": null,
+                "font-weight": null,
+                "line-height": null,
+                "text-align": null,
                 "letter-spacing": null,
                 "text-transform": null
             },
@@ -581,6 +569,45 @@
             },
             "border": "none"
         },
-        "type": "text"
+        "type": "shape"
+    },
+    {
+        "id": "I1245:11842;487:7578",
+        "name": "shape-2",
+        "textMeta": {
+            "content": null,
+            "wordCount": 0,
+            "isSentence": false
+        },
+        "isMainContainer": false,
+        "style": {
+            "position": {
+                "top": "226px",
+                "left": "1072px",
+                "z-index": 150
+            },
+            "dimensions": {
+                "width": "224px",
+                "height": "224px"
+            },
+            "colors": {
+                "color": "#ffffff",
+                "background-color": "#ffffff"
+            },
+            "fonts": {
+                "font-family": null,
+                "font-size": null,
+                "font-weight": null,
+                "line-height": null,
+                "text-align": null,
+                "letter-spacing": null,
+                "text-transform": null
+            },
+            "image": {
+                "imageHash": null
+            },
+            "border": "none"
+        },
+        "type": "shape"
     }
 ]

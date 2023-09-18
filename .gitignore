@@ -1,6 +1,7 @@
 # directories
 node_modules
 dist
+output
 
 # files
 .DS_Store

@@ -15,9 +15,11 @@ https://www.figma.com/plugin-docs/creating-ui/
 
 
 Todo:
-
+-add line break: characters: "Queenstown\n\nComing soon"
+-if text has double space, add &nbsp
+-research "fontSize:Symbol(figma.mixed)" issue
 -setLineHeight: advanced
-
 -font fallback
 -shapes: SVG as background or use random colors
 -remove elements with no relevant data (e.g. shapes with no colours, text with no content, etc.)
+-setWidth not always accurate (fixed @ 3 words)

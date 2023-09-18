@@ -24,11 +24,12 @@ export const setData = (node: any, elementObject: FigmaElement) => {
         // words
         if(elementObject.textMeta?.content) {
             const wordCount = elementObject.textMeta.content.trim().split(/\s+/).length
-            if(wordCount > 5) {
+            if(wordCount > 3) {
                 elementObject.textMeta.wordCount = wordCount
                 elementObject.textMeta.isSentence = true
              }
         }
+        delete elementObject.style.border
     }
     // image:
     if(elementObject.style.image['imageHash'] !== null) {

@@ -26,7 +26,7 @@ export interface FigmaElement {
         "fonts": {
             "font-family": string | null
             "font-size": string | null
-            "font-weight": string | null
+            "font-weight": number | null
             "line-height": any
             "text-align": string | null
             "letter-spacing": string | null
@@ -35,7 +35,7 @@ export interface FigmaElement {
         "image": {
             "imageHash": string | null
         }
-        "border": string
+        "border"?: string
     }
 }
 
