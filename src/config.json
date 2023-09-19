@@ -1,6 +1,6 @@
 [
     {
-        "id": "2134:14696",
+        "id": "645:11923",
         "name": "container",
         "textMeta": {
             "content": null,
@@ -16,8 +16,8 @@
                 "z-index": 1
             },
             "dimensions": {
-                "width": "1804px",
-                "height": "916px"
+                "width": "378px",
+                "height": "1560px"
             },
             "colors": {
                 "color": "#f8f6f4",
@@ -39,7 +39,7 @@
         }
     },
     {
-        "id": "I2134:14696;487:7556",
+        "id": "I645:11923;645:10872",
         "name": "text-0",
         "textMeta": {
             "content": "We take projects from inception to market, all in-house, with your team and ours.",
@@ -50,13 +50,13 @@
         "isMainContainer": false,
         "style": {
             "position": {
-                "top": "145px",
-                "left": "306px",
+                "top": "47px",
+                "left": "24px",
                 "z-index": 10
             },
             "dimensions": {
-                "width": "729px",
-                "height": "174px"
+                "width": "333px",
+                "height": "190px"
             },
             "colors": {
                 "color": "#162c63",
@@ -64,7 +64,7 @@
             },
             "fonts": {
                 "font-family": "Sans-serif",
-                "font-size": "48px",
+                "font-size": "32px",
                 "font-weight": 336,
                 "line-height": 1.2000000476837158,
                 "text-align": "LEFT",
@@ -78,7 +78,7 @@
         "type": "text"
     },
     {
-        "id": "I2134:14696;487:7557",
+        "id": "I645:11923;645:10873",
         "name": "text-1",
         "textMeta": {
             "content": "If you've made it this far you're probably in need of some digital",
@@ -89,13 +89,13 @@
         "isMainContainer": false,
         "style": {
             "position": {
-                "top": "335px",
-                "left": "306px",
+                "top": "261px",
+                "left": "24px",
                 "z-index": 20
             },
             "dimensions": {
-                "width": "446px",
-                "height": "68px"
+                "width": "333px",
+                "height": "52px"
             },
             "colors": {
                 "color": "#162c63",
@@ -103,9 +103,9 @@
             },
             "fonts": {
                 "font-family": "Sans-serif",
-                "font-size": "24px",
+                "font-size": "16px",
                 "font-weight": 336,
-                "line-height": 1.399999976158142,
+                "line-height": 1.600000023841858,
                 "text-align": "LEFT",
                 "letter-spacing": null,
                 "text-transform": null
@@ -117,7 +117,7 @@
         "type": "text"
     },
     {
-        "id": "I2134:14696;487:7560",
+        "id": "I645:11923;645:10876",
         "name": "text-2",
         "textMeta": {
             "content": "Ready to play?",
@@ -128,8 +128,8 @@
         "isMainContainer": false,
         "style": {
             "position": {
-                "top": "435px",
-                "left": "413px",
+                "top": "337px",
+                "left": "131px",
                 "z-index": 30
             },
             "dimensions": {
@@ -156,8 +156,8 @@
         "type": "text"
     },
     {
-        "id": "I2134:14696;487:7561",
-        "name": "shape-2",
+        "id": "I645:11923;645:10877",
+        "name": "shape-0",
         "textMeta": {
             "content": null,
             "wordCount": 0,
@@ -167,8 +167,8 @@
         "isMainContainer": false,
         "style": {
             "position": {
-                "top": "439px",
-                "left": "306px",
+                "top": "341px",
+                "left": "24px",
                 "z-index": 40
             },
             "dimensions": {
@@ -196,7 +196,7 @@
         "type": "shape"
     },
     {
-        "id": "I2134:14696;487:7563",
+        "id": "I645:11923;645:10879",
         "name": "text-3",
         "textMeta": {
             "content": "home",
@@ -207,8 +207,8 @@
         "isMainContainer": false,
         "style": {
             "position": {
-                "top": "753.000007748722px",
-                "left": "305.99999928474426px",
+                "top": "1161.000007748722px",
+                "left": "23.999999284744263px",
                 "z-index": 50
             },
             "dimensions": {
@@ -235,7 +235,7 @@
         "type": "text"
     },
     {
-        "id": "I2134:14696;487:7564",
+        "id": "I645:11923;645:10880",
         "name": "text-4",
         "textMeta": {
             "content": "Play",
@@ -246,8 +246,8 @@
         "isMainContainer": false,
         "style": {
             "position": {
-                "top": "753.0000066599255px",
-                "left": "383px",
+                "top": "1193.000015258789px",
+                "left": "23.999999300617787px",
                 "z-index": 60
             },
             "dimensions": {
@@ -274,7 +274,7 @@
         "type": "text"
     },
     {
-        "id": "I2134:14696;487:7565",
+        "id": "I645:11923;645:10881",
         "name": "text-5",
         "textMeta": {
             "content": "WORK",
@@ -285,8 +285,8 @@
         "isMainContainer": false,
         "style": {
             "position": {
-                "top": "753.0000085752508px",
-                "left": "453px",
+                "top": "1225.0000228881836px",
+                "left": "23.999999300617787px",
                 "z-index": 70
             },
             "dimensions": {
@@ -313,7 +313,7 @@
         "type": "text"
     },
     {
-        "id": "I2134:14696;487:7566",
+        "id": "I645:11923;645:10882",
         "name": "text-6",
         "textMeta": {
             "content": "LABS",
@@ -324,8 +324,8 @@
         "isMainContainer": false,
         "style": {
             "position": {
-                "top": "753.0000067473484px",
-                "left": "534px",
+                "top": "1257.0000305175781px",
+                "left": "23.999999300617787px",
                 "z-index": 80
             },
             "dimensions": {
@@ -352,7 +352,7 @@
         "type": "text"
     },
     {
-        "id": "I2134:14696;487:7567",
+        "id": "I645:11923;645:10883",
         "name": "text-7",
         "textMeta": {
             "content": "about",
@@ -363,8 +363,8 @@
         "isMainContainer": false,
         "style": {
             "position": {
-                "top": "753.0000094017787px",
-                "left": "605px",
+                "top": "1289.0000305175781px",
+                "left": "23.999999300617787px",
                 "z-index": 90
             },
             "dimensions": {
@@ -391,7 +391,7 @@
         "type": "text"
     },
     {
-        "id": "I2134:14696;487:7568",
+        "id": "I645:11923;645:10884",
         "name": "text-8",
         "textMeta": {
             "content": "contact",
@@ -402,8 +402,8 @@
         "isMainContainer": false,
         "style": {
             "position": {
-                "top": "753.0000125807455px",
-                "left": "690px",
+                "top": "1321.0000457763672px",
+                "left": "23.999999300617787px",
                 "z-index": 100
             },
             "dimensions": {
@@ -430,8 +430,8 @@
         "type": "text"
     },
     {
-        "id": "I2134:14696;487:7569",
-        "name": "text-10",
+        "id": "I645:11923;645:10885",
+        "name": "text-11",
         "textMeta": {
             "content": "We acknowledge the Traditional Owners of Country throughout Australia. We pay our respects to Elders past and present.",
             "wordCount": 18,
@@ -441,12 +441,12 @@
         "isMainContainer": false,
         "style": {
             "position": {
-                "top": "825px",
-                "left": "306px",
+                "top": "1481.0000610351562px",
+                "left": "24px",
                 "z-index": 110
             },
             "dimensions": {
-                "width": "417px",
+                "width": "255px",
                 "height": "34px"
             },
             "colors": {
@@ -469,8 +469,8 @@
         "type": "text"
     },
     {
-        "id": "I2134:14696;487:7572",
-        "name": "text-9",
+        "id": "I645:11923;645:10888",
+        "name": "text-10",
         "textMeta": {
             "content": "© 2022 Hide and Seek Digital",
             "wordCount": 6,
@@ -480,12 +480,12 @@
         "isMainContainer": false,
         "style": {
             "position": {
-                "top": "793px",
-                "left": "306px",
+                "top": "1449.0000610351562px",
+                "left": "24px",
                 "z-index": 120
             },
             "dimensions": {
-                "width": "227px",
+                "width": "196px",
                 "height": "16px"
             },
             "colors": {
@@ -508,8 +508,8 @@
         "type": "text"
     },
     {
-        "id": "I2134:14696;487:7574",
-        "name": "text-11",
+        "id": "I645:11923;645:10890",
+        "name": "text-9",
         "textMeta": {
             "content": "Linkedin         Instagram",
             "wordCount": 0,
@@ -519,8 +519,8 @@
         "isMainContainer": false,
         "style": {
             "position": {
-                "top": "737px",
-                "left": "1326px",
+                "top": "1377.0000610351562px",
+                "left": "24px",
                 "z-index": 130
             },
             "dimensions": {
@@ -547,8 +547,8 @@
         "type": "text"
     },
     {
-        "id": "I2134:14696;487:7576",
-        "name": "shape-0",
+        "id": "I645:11923;645:10892",
+        "name": "shape-1",
         "textMeta": {
             "content": null,
             "wordCount": 0,
@@ -558,13 +558,13 @@
         "isMainContainer": false,
         "style": {
             "position": {
-                "top": "79px",
-                "left": "1202px",
+                "top": "458px",
+                "left": "180.66650390625px",
                 "z-index": 140
             },
             "dimensions": {
-                "width": "296px",
-                "height": "294px"
+                "width": "197.3333282470703px",
+                "height": "196px"
             },
             "colors": {
                 "color": "#162c63",
@@ -587,8 +587,8 @@
         "type": "shape"
     },
     {
-        "id": "I2134:14696;487:7578",
-        "name": "shape-1",
+        "id": "I645:11923;645:10894",
+        "name": "shape-2",
         "textMeta": {
             "content": null,
             "wordCount": 0,
@@ -598,13 +598,13 @@
         "isMainContainer": false,
         "style": {
             "position": {
-                "top": "226px",
-                "left": "1072px",
+                "top": "556px",
+                "left": "94.00048828125px",
                 "z-index": 150
             },
             "dimensions": {
-                "width": "224px",
-                "height": "224px"
+                "width": "149.33334350585938px",
+                "height": "149.33334350585938px"
             },
             "colors": {
                 "color": "#ffffff",

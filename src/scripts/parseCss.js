@@ -4,10 +4,6 @@ import fs from 'fs'
 const inputFile = './output/example.css'
 const outputFile = './output/example-out.css'
 
-const setDynamicRatio = (declaration) => {
-    declaration.value = `calc(${declaration.value} * var(--ratio))`
-}
-
 const addImageDeclarations = (declarations) => {
     const imageDeclarations = [
         {
@@ -83,18 +79,11 @@ if (fs.existsSync(inputFile)) {
                 // positions
                 'top', 'left', 'width', 'height',
                 // fonts
-                'line-height', 'letter-spacing'
+                'font-size'
             ]
             const allProps = declaration.type == 'declaration' && allPropsArray.includes(declaration.property) && !isContainer
             if (allProps) {
-                setDynamicRatio(declaration,)
-            }
-
-            // set min max font sizes:
-            const textPropsArray = ['font-size']
-            const textProps = declaration.type == 'declaration' && textPropsArray.includes(declaration.property) && !isContainer
-            if (textProps) {
-                setDynamicRatio(declaration)
+                declaration.value = `calc(${declaration.value} * var(--ratio))`
             }
 
             // add background image rules
