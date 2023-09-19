@@ -3,10 +3,11 @@ export interface FigmaElement {
     "idNumeric"?: number | null
     "name"?: string | null
     "type"?: 'shape' | 'text' | 'image' | 'container'
-    'textMeta'?: {
+    'textMeta': {
         'content': string | null
         'wordCount': number | 0
         'isSentence': boolean | false
+        'widthSet': boolean | false
     }
     "isMainContainer": boolean | false
     "style": {

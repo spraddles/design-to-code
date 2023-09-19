@@ -1,11 +1,12 @@
 [
     {
-        "id": "1245:11842",
+        "id": "2134:14696",
         "name": "container",
         "textMeta": {
             "content": null,
             "wordCount": 0,
-            "isSentence": false
+            "isSentence": false,
+            "widthSet": false
         },
         "isMainContainer": true,
         "style": {
@@ -38,12 +39,13 @@
         }
     },
     {
-        "id": "I1245:11842;487:7556",
+        "id": "I2134:14696;487:7556",
         "name": "text-0",
         "textMeta": {
             "content": "We take projects from inception to market, all in-house, with your team and ours.",
             "wordCount": 14,
-            "isSentence": true
+            "isSentence": true,
+            "widthSet": false
         },
         "isMainContainer": false,
         "style": {
@@ -76,12 +78,13 @@
         "type": "text"
     },
     {
-        "id": "I1245:11842;487:7557",
+        "id": "I2134:14696;487:7557",
         "name": "text-1",
         "textMeta": {
             "content": "If you've made it this far you're probably in need of some digital",
             "wordCount": 13,
-            "isSentence": true
+            "isSentence": true,
+            "widthSet": false
         },
         "isMainContainer": false,
         "style": {
@@ -114,12 +117,13 @@
         "type": "text"
     },
     {
-        "id": "I1245:11842;487:7560",
+        "id": "I2134:14696;487:7560",
         "name": "text-2",
         "textMeta": {
             "content": "Ready to play?",
             "wordCount": 0,
-            "isSentence": false
+            "isSentence": false,
+            "widthSet": true
         },
         "isMainContainer": false,
         "style": {
@@ -152,12 +156,13 @@
         "type": "text"
     },
     {
-        "id": "I1245:11842;487:7561",
-        "name": "shape-0",
+        "id": "I2134:14696;487:7561",
+        "name": "shape-2",
         "textMeta": {
             "content": null,
             "wordCount": 0,
-            "isSentence": false
+            "isSentence": false,
+            "widthSet": false
         },
         "isMainContainer": false,
         "style": {
@@ -191,12 +196,13 @@
         "type": "shape"
     },
     {
-        "id": "I1245:11842;487:7563",
+        "id": "I2134:14696;487:7563",
         "name": "text-3",
         "textMeta": {
             "content": "home",
             "wordCount": 0,
-            "isSentence": false
+            "isSentence": false,
+            "widthSet": true
         },
         "isMainContainer": false,
         "style": {
@@ -229,12 +235,13 @@
         "type": "text"
     },
     {
-        "id": "I1245:11842;487:7564",
+        "id": "I2134:14696;487:7564",
         "name": "text-4",
         "textMeta": {
             "content": "Play",
             "wordCount": 0,
-            "isSentence": false
+            "isSentence": false,
+            "widthSet": true
         },
         "isMainContainer": false,
         "style": {
@@ -267,12 +274,13 @@
         "type": "text"
     },
     {
-        "id": "I1245:11842;487:7565",
+        "id": "I2134:14696;487:7565",
         "name": "text-5",
         "textMeta": {
             "content": "WORK",
             "wordCount": 0,
-            "isSentence": false
+            "isSentence": false,
+            "widthSet": true
         },
         "isMainContainer": false,
         "style": {
@@ -305,12 +313,13 @@
         "type": "text"
     },
     {
-        "id": "I1245:11842;487:7566",
+        "id": "I2134:14696;487:7566",
         "name": "text-6",
         "textMeta": {
             "content": "LABS",
             "wordCount": 0,
-            "isSentence": false
+            "isSentence": false,
+            "widthSet": true
         },
         "isMainContainer": false,
         "style": {
@@ -343,12 +352,13 @@
         "type": "text"
     },
     {
-        "id": "I1245:11842;487:7567",
+        "id": "I2134:14696;487:7567",
         "name": "text-7",
         "textMeta": {
             "content": "about",
             "wordCount": 0,
-            "isSentence": false
+            "isSentence": false,
+            "widthSet": true
         },
         "isMainContainer": false,
         "style": {
@@ -381,12 +391,13 @@
         "type": "text"
     },
     {
-        "id": "I1245:11842;487:7568",
+        "id": "I2134:14696;487:7568",
         "name": "text-8",
         "textMeta": {
             "content": "contact",
             "wordCount": 0,
-            "isSentence": false
+            "isSentence": false,
+            "widthSet": true
         },
         "isMainContainer": false,
         "style": {
@@ -419,12 +430,13 @@
         "type": "text"
     },
     {
-        "id": "I1245:11842;487:7569",
+        "id": "I2134:14696;487:7569",
         "name": "text-10",
         "textMeta": {
             "content": "We acknowledge the Traditional Owners of Country throughout Australia. We pay our respects to Elders past and present.",
             "wordCount": 18,
-            "isSentence": true
+            "isSentence": true,
+            "widthSet": false
         },
         "isMainContainer": false,
         "style": {
@@ -457,12 +469,13 @@
         "type": "text"
     },
     {
-        "id": "I1245:11842;487:7572",
+        "id": "I2134:14696;487:7572",
         "name": "text-9",
         "textMeta": {
             "content": "© 2022 Hide and Seek Digital",
             "wordCount": 6,
-            "isSentence": true
+            "isSentence": true,
+            "widthSet": false
         },
         "isMainContainer": false,
         "style": {
@@ -495,12 +508,13 @@
         "type": "text"
     },
     {
-        "id": "I1245:11842;487:7574",
+        "id": "I2134:14696;487:7574",
         "name": "text-11",
         "textMeta": {
             "content": "Linkedin         Instagram",
             "wordCount": 0,
-            "isSentence": false
+            "isSentence": false,
+            "widthSet": true
         },
         "isMainContainer": false,
         "style": {
@@ -533,12 +547,13 @@
         "type": "text"
     },
     {
-        "id": "I1245:11842;487:7576",
-        "name": "shape-1",
+        "id": "I2134:14696;487:7576",
+        "name": "shape-0",
         "textMeta": {
             "content": null,
             "wordCount": 0,
-            "isSentence": false
+            "isSentence": false,
+            "widthSet": false
         },
         "isMainContainer": false,
         "style": {
@@ -572,12 +587,13 @@
         "type": "shape"
     },
     {
-        "id": "I1245:11842;487:7578",
-        "name": "shape-2",
+        "id": "I2134:14696;487:7578",
+        "name": "shape-1",
         "textMeta": {
             "content": null,
             "wordCount": 0,
-            "isSentence": false
+            "isSentence": false,
+            "widthSet": false
         },
         "isMainContainer": false,
         "style": {

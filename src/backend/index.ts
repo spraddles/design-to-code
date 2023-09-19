@@ -28,7 +28,8 @@ figma.on('selectionchange', () => {
         'textMeta': {
           'content': node.characters ? node.characters : null,
           'wordCount': 0,
-          'isSentence': false
+          'isSentence': false,
+          'widthSet': false
         },
         'isMainContainer': false,
         'style': {
@@ -80,14 +81,14 @@ figma.on('selectionchange', () => {
       // send to UI
       if(elementObject.type == 'text' && elementObject.textMeta?.isSentence == false) {
         figma.ui.postMessage({
-          name: 'setWidth', 
+          name: 'setWidth',
           data: elementObject
         } as EventObject)
       }
+
+      console.log('state.elements: ', state.elements)
+
     }
-
-    console.log('state.elements: ', state.elements)
-
   }
 })
 
@@ -97,7 +98,5 @@ figma.ui.onmessage = (event) => {
   // set width
   if(event.name == 'setWidth') {
     setWidth(event.data)
-    
-    console.log('state.elements: ', state.elements)
   }
 }

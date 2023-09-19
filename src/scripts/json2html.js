@@ -5,7 +5,6 @@ const configFile = './src/config.json'
 const targetHtmlFile = `./output/${name}.html`
 const targetCssFile = `./output/${name}.css`
 
-// var elementsArray: Array<Element> = []
 var elementsArray = []
 
 if (fs.existsSync(configFile)) {
@@ -17,7 +16,7 @@ if (fs.existsSync(configFile)) {
 const htmlString = () => {
     var htmlString = ''
     htmlString+= '<html><head>'
-    htmlString+= `<link rel="stylesheet" type="text/css" href="${name}.css" />`
+    htmlString+= `<link rel="stylesheet" type="text/css" href="${name}-out.css" />`
     htmlString+= '</head><body>'
     htmlString+= '<div id="container">'
     elementsArray.forEach((element) => {
@@ -26,6 +25,7 @@ const htmlString = () => {
         }
     })
     htmlString+= '</div>'
+    htmlString+= '<script src="autoscale.js"></script>'
     htmlString+= '</body></html>'
     return htmlString
 }
