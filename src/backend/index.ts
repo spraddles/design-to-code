@@ -6,6 +6,7 @@ import { setZindex } from './utils/setZindex'
 import { setWidth } from './utils/setWidth'
 import { setLineHeight } from './utils/setLineHeight'
 import { setBorder } from './utils/setBorder'
+import { setSpaces } from './utils/setSpaces'
 
 var elementObject: FigmaElement | null
 
@@ -29,7 +30,8 @@ figma.on('selectionchange', () => {
           'content': node.characters ? node.characters : null,
           'wordCount': 0,
           'isSentence': false,
-          'widthSet': false
+          'widthSet': false,
+          'mixedFontRules': false
         },
         'isMainContainer': false,
         'style': {
@@ -77,6 +79,8 @@ figma.on('selectionchange', () => {
       setBorder(node, elementObject)
 
       setZindex()
+
+      setSpaces(elementObject)
 
       // send to UI
       if(elementObject.type == 'text' && elementObject.textMeta?.isSentence == false) {

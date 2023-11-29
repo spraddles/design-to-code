@@ -8,6 +8,7 @@ export interface FigmaElement {
         'wordCount': number | 0
         'isSentence': boolean | false
         'widthSet': boolean | false
+        'mixedFontRules': boolean | false
     }
     "isMainContainer": boolean | false
     "style": {

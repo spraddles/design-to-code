@@ -1,12 +1,13 @@
 [
     {
-        "id": "645:11923",
+        "id": "1730:41267",
         "name": "container",
         "textMeta": {
             "content": null,
             "wordCount": 0,
             "isSentence": false,
-            "widthSet": false
+            "widthSet": false,
+            "mixedFontRules": false
         },
         "isMainContainer": true,
         "style": {
@@ -16,595 +17,8 @@
                 "z-index": 1
             },
             "dimensions": {
-                "width": "378px",
-                "height": "1560px"
-            },
-            "colors": {
-                "color": "#f8f6f4",
-                "background-color": "#f8f6f4"
-            },
-            "fonts": {
-                "font-family": null,
-                "font-size": null,
-                "font-weight": null,
-                "line-height": null,
-                "text-align": null,
-                "letter-spacing": null,
-                "text-transform": null
-            },
-            "image": {
-                "imageHash": null
-            },
-            "border": "none"
-        }
-    },
-    {
-        "id": "I645:11923;645:10872",
-        "name": "text-0",
-        "textMeta": {
-            "content": "We take projects from inception to market, all in-house, with your team and ours.",
-            "wordCount": 14,
-            "isSentence": true,
-            "widthSet": false
-        },
-        "isMainContainer": false,
-        "style": {
-            "position": {
-                "top": "47px",
-                "left": "24px",
-                "z-index": 10
-            },
-            "dimensions": {
-                "width": "333px",
-                "height": "190px"
-            },
-            "colors": {
-                "color": "#162c63",
-                "background-color": null
-            },
-            "fonts": {
-                "font-family": "Sans-serif",
-                "font-size": "32px",
-                "font-weight": 336,
-                "line-height": 1.2000000476837158,
-                "text-align": "LEFT",
-                "letter-spacing": null,
-                "text-transform": null
-            },
-            "image": {
-                "imageHash": null
-            }
-        },
-        "type": "text"
-    },
-    {
-        "id": "I645:11923;645:10873",
-        "name": "text-1",
-        "textMeta": {
-            "content": "If you've made it this far you're probably in need of some digital",
-            "wordCount": 13,
-            "isSentence": true,
-            "widthSet": false
-        },
-        "isMainContainer": false,
-        "style": {
-            "position": {
-                "top": "261px",
-                "left": "24px",
-                "z-index": 20
-            },
-            "dimensions": {
-                "width": "333px",
-                "height": "52px"
-            },
-            "colors": {
-                "color": "#162c63",
-                "background-color": null
-            },
-            "fonts": {
-                "font-family": "Sans-serif",
-                "font-size": "16px",
-                "font-weight": 336,
-                "line-height": 1.600000023841858,
-                "text-align": "LEFT",
-                "letter-spacing": null,
-                "text-transform": null
-            },
-            "image": {
-                "imageHash": null
-            }
-        },
-        "type": "text"
-    },
-    {
-        "id": "I645:11923;645:10876",
-        "name": "text-2",
-        "textMeta": {
-            "content": "Ready to play?",
-            "wordCount": 0,
-            "isSentence": false,
-            "widthSet": true
-        },
-        "isMainContainer": false,
-        "style": {
-            "position": {
-                "top": "337px",
-                "left": "131px",
-                "z-index": 30
-            },
-            "dimensions": {
-                "width": "108px",
-                "height": "16px"
-            },
-            "colors": {
-                "color": "#162c63",
-                "background-color": null
-            },
-            "fonts": {
-                "font-family": "Sans-serif",
-                "font-size": "16px",
-                "font-weight": 336,
-                "line-height": "16px",
-                "text-align": "LEFT",
-                "letter-spacing": null,
-                "text-transform": null
-            },
-            "image": {
-                "imageHash": null
-            }
-        },
-        "type": "text"
-    },
-    {
-        "id": "I645:11923;645:10877",
-        "name": "shape-0",
-        "textMeta": {
-            "content": null,
-            "wordCount": 0,
-            "isSentence": false,
-            "widthSet": false
-        },
-        "isMainContainer": false,
-        "style": {
-            "position": {
-                "top": "341px",
-                "left": "24px",
-                "z-index": 40
-            },
-            "dimensions": {
-                "width": "81px",
-                "height": "4px"
-            },
-            "colors": {
-                "color": "#e83d32",
-                "background-color": "#e83d32"
-            },
-            "fonts": {
-                "font-family": null,
-                "font-size": null,
-                "font-weight": null,
-                "line-height": null,
-                "text-align": null,
-                "letter-spacing": null,
-                "text-transform": null
-            },
-            "image": {
-                "imageHash": null
-            },
-            "border": "none"
-        },
-        "type": "shape"
-    },
-    {
-        "id": "I645:11923;645:10879",
-        "name": "text-3",
-        "textMeta": {
-            "content": "home",
-            "wordCount": 0,
-            "isSentence": false,
-            "widthSet": true
-        },
-        "isMainContainer": false,
-        "style": {
-            "position": {
-                "top": "1161.000007748722px",
-                "left": "23.999999284744263px",
-                "z-index": 50
-            },
-            "dimensions": {
-                "width": "37px",
-                "height": "8px"
-            },
-            "colors": {
-                "color": "#162c63",
-                "background-color": null
-            },
-            "fonts": {
-                "font-family": "Sans-serif",
-                "font-size": "12px",
-                "font-weight": 767,
-                "line-height": "32px",
-                "text-align": "RIGHT",
-                "letter-spacing": null,
-                "text-transform": "uppercase"
-            },
-            "image": {
-                "imageHash": null
-            }
-        },
-        "type": "text"
-    },
-    {
-        "id": "I645:11923;645:10880",
-        "name": "text-4",
-        "textMeta": {
-            "content": "Play",
-            "wordCount": 0,
-            "isSentence": false,
-            "widthSet": true
-        },
-        "isMainContainer": false,
-        "style": {
-            "position": {
-                "top": "1193.000015258789px",
-                "left": "23.999999300617787px",
-                "z-index": 60
-            },
-            "dimensions": {
-                "width": "32px",
-                "height": "8px"
-            },
-            "colors": {
-                "color": "#162c63",
-                "background-color": null
-            },
-            "fonts": {
-                "font-family": "Sans-serif",
-                "font-size": "12px",
-                "font-weight": 767,
-                "line-height": "32px",
-                "text-align": "RIGHT",
-                "letter-spacing": null,
-                "text-transform": "uppercase"
-            },
-            "image": {
-                "imageHash": null
-            }
-        },
-        "type": "text"
-    },
-    {
-        "id": "I645:11923;645:10881",
-        "name": "text-5",
-        "textMeta": {
-            "content": "WORK",
-            "wordCount": 0,
-            "isSentence": false,
-            "widthSet": true
-        },
-        "isMainContainer": false,
-        "style": {
-            "position": {
-                "top": "1225.0000228881836px",
-                "left": "23.999999300617787px",
-                "z-index": 70
-            },
-            "dimensions": {
-                "width": "39px",
-                "height": "8px"
-            },
-            "colors": {
-                "color": "#162c63",
-                "background-color": null
-            },
-            "fonts": {
-                "font-family": "Sans-serif",
-                "font-size": "12px",
-                "font-weight": 767,
-                "line-height": "32px",
-                "text-align": "RIGHT",
-                "letter-spacing": null,
-                "text-transform": "uppercase"
-            },
-            "image": {
-                "imageHash": null
-            }
-        },
-        "type": "text"
-    },
-    {
-        "id": "I645:11923;645:10882",
-        "name": "text-6",
-        "textMeta": {
-            "content": "LABS",
-            "wordCount": 0,
-            "isSentence": false,
-            "widthSet": true
-        },
-        "isMainContainer": false,
-        "style": {
-            "position": {
-                "top": "1257.0000305175781px",
-                "left": "23.999999300617787px",
-                "z-index": 80
-            },
-            "dimensions": {
-                "width": "34px",
-                "height": "8px"
-            },
-            "colors": {
-                "color": "#162c63",
-                "background-color": null
-            },
-            "fonts": {
-                "font-family": "Sans-serif",
-                "font-size": "12px",
-                "font-weight": 767,
-                "line-height": "32px",
-                "text-align": "RIGHT",
-                "letter-spacing": null,
-                "text-transform": "uppercase"
-            },
-            "image": {
-                "imageHash": null
-            }
-        },
-        "type": "text"
-    },
-    {
-        "id": "I645:11923;645:10883",
-        "name": "text-7",
-        "textMeta": {
-            "content": "about",
-            "wordCount": 0,
-            "isSentence": false,
-            "widthSet": true
-        },
-        "isMainContainer": false,
-        "style": {
-            "position": {
-                "top": "1289.0000305175781px",
-                "left": "23.999999300617787px",
-                "z-index": 90
-            },
-            "dimensions": {
-                "width": "44px",
-                "height": "8px"
-            },
-            "colors": {
-                "color": "#162c63",
-                "background-color": null
-            },
-            "fonts": {
-                "font-family": "Sans-serif",
-                "font-size": "12px",
-                "font-weight": 767,
-                "line-height": "32px",
-                "text-align": "RIGHT",
-                "letter-spacing": null,
-                "text-transform": "uppercase"
-            },
-            "image": {
-                "imageHash": null
-            }
-        },
-        "type": "text"
-    },
-    {
-        "id": "I645:11923;645:10884",
-        "name": "text-8",
-        "textMeta": {
-            "content": "contact",
-            "wordCount": 0,
-            "isSentence": false,
-            "widthSet": true
-        },
-        "isMainContainer": false,
-        "style": {
-            "position": {
-                "top": "1321.0000457763672px",
-                "left": "23.999999300617787px",
-                "z-index": 100
-            },
-            "dimensions": {
-                "width": "59px",
-                "height": "8px"
-            },
-            "colors": {
-                "color": "#162c63",
-                "background-color": null
-            },
-            "fonts": {
-                "font-family": "Sans-serif",
-                "font-size": "12px",
-                "font-weight": 767,
-                "line-height": "32px",
-                "text-align": "RIGHT",
-                "letter-spacing": null,
-                "text-transform": "uppercase"
-            },
-            "image": {
-                "imageHash": null
-            }
-        },
-        "type": "text"
-    },
-    {
-        "id": "I645:11923;645:10885",
-        "name": "text-11",
-        "textMeta": {
-            "content": "We acknowledge the Traditional Owners of Country throughout Australia. We pay our respects to Elders past and present.",
-            "wordCount": 18,
-            "isSentence": true,
-            "widthSet": false
-        },
-        "isMainContainer": false,
-        "style": {
-            "position": {
-                "top": "1481.0000610351562px",
-                "left": "24px",
-                "z-index": 110
-            },
-            "dimensions": {
-                "width": "255px",
-                "height": "34px"
-            },
-            "colors": {
-                "color": "#162c63",
-                "background-color": null
-            },
-            "fonts": {
-                "font-family": "Sans-serif",
-                "font-size": "12px",
-                "font-weight": 336,
-                "line-height": "16px",
-                "text-align": "LEFT",
-                "letter-spacing": null,
-                "text-transform": null
-            },
-            "image": {
-                "imageHash": null
-            }
-        },
-        "type": "text"
-    },
-    {
-        "id": "I645:11923;645:10888",
-        "name": "text-10",
-        "textMeta": {
-            "content": "© 2022 Hide and Seek Digital",
-            "wordCount": 6,
-            "isSentence": true,
-            "widthSet": false
-        },
-        "isMainContainer": false,
-        "style": {
-            "position": {
-                "top": "1449.0000610351562px",
-                "left": "24px",
-                "z-index": 120
-            },
-            "dimensions": {
-                "width": "196px",
-                "height": "16px"
-            },
-            "colors": {
-                "color": "#162c63",
-                "background-color": null
-            },
-            "fonts": {
-                "font-family": "Sans-serif",
-                "font-size": "12px",
-                "font-weight": 336,
-                "line-height": "16px",
-                "text-align": "LEFT",
-                "letter-spacing": null,
-                "text-transform": null
-            },
-            "image": {
-                "imageHash": null
-            }
-        },
-        "type": "text"
-    },
-    {
-        "id": "I645:11923;645:10890",
-        "name": "text-9",
-        "textMeta": {
-            "content": "Linkedin         Instagram",
-            "wordCount": 0,
-            "isSentence": false,
-            "widthSet": true
-        },
-        "isMainContainer": false,
-        "style": {
-            "position": {
-                "top": "1377.0000610351562px",
-                "left": "24px",
-                "z-index": 130
-            },
-            "dimensions": {
-                "width": "173px",
-                "height": "24px"
-            },
-            "colors": {
-                "color": "#162c63",
-                "background-color": null
-            },
-            "fonts": {
-                "font-family": "Sans-serif",
-                "font-size": "16px",
-                "font-weight": 336,
-                "line-height": "24px",
-                "text-align": "LEFT",
-                "letter-spacing": null,
-                "text-transform": null
-            },
-            "image": {
-                "imageHash": null
-            }
-        },
-        "type": "text"
-    },
-    {
-        "id": "I645:11923;645:10892",
-        "name": "shape-1",
-        "textMeta": {
-            "content": null,
-            "wordCount": 0,
-            "isSentence": false,
-            "widthSet": false
-        },
-        "isMainContainer": false,
-        "style": {
-            "position": {
-                "top": "458px",
-                "left": "180.66650390625px",
-                "z-index": 140
-            },
-            "dimensions": {
-                "width": "197.3333282470703px",
-                "height": "196px"
-            },
-            "colors": {
-                "color": "#162c63",
-                "background-color": "#162c63"
-            },
-            "fonts": {
-                "font-family": null,
-                "font-size": null,
-                "font-weight": null,
-                "line-height": null,
-                "text-align": null,
-                "letter-spacing": null,
-                "text-transform": null
-            },
-            "image": {
-                "imageHash": null
-            },
-            "border": "none"
-        },
-        "type": "shape"
-    },
-    {
-        "id": "I645:11923;645:10894",
-        "name": "shape-2",
-        "textMeta": {
-            "content": null,
-            "wordCount": 0,
-            "isSentence": false,
-            "widthSet": false
-        },
-        "isMainContainer": false,
-        "style": {
-            "position": {
-                "top": "556px",
-                "left": "94.00048828125px",
-                "z-index": 150
-            },
-            "dimensions": {
-                "width": "149.33334350585938px",
-                "height": "149.33334350585938px"
+                "width": "1920px",
+                "height": "6163px"
             },
             "colors": {
                 "color": "#ffffff",
@@ -623,7 +37,654 @@
                 "imageHash": null
             },
             "border": "none"
+        }
+    },
+    {
+        "id": "1730:45036",
+        "name": "shape-0",
+        "textMeta": {
+            "content": null,
+            "wordCount": 0,
+            "isSentence": false,
+            "widthSet": false,
+            "mixedFontRules": false
+        },
+        "isMainContainer": false,
+        "style": {
+            "position": {
+                "top": "2970.3265380859375px",
+                "left": "58px",
+                "z-index": 10
+            },
+            "dimensions": {
+                "width": "1804px",
+                "height": "1392.0003662109375px"
+            },
+            "colors": {
+                "color": "#f8f6f4",
+                "background-color": "#f8f6f4"
+            },
+            "fonts": {
+                "font-family": null,
+                "font-size": null,
+                "font-weight": null,
+                "line-height": null,
+                "text-align": null,
+                "letter-spacing": null,
+                "text-transform": null
+            },
+            "image": {
+                "imageHash": null
+            },
+            "border": "none"
         },
         "type": "shape"
+    },
+    {
+        "id": "1730:45039",
+        "name": "shape-7",
+        "textMeta": {
+            "content": null,
+            "wordCount": 0,
+            "isSentence": false,
+            "widthSet": false,
+            "mixedFontRules": false
+        },
+        "isMainContainer": false,
+        "style": {
+            "position": {
+                "top": "3186.3265380859375px",
+                "left": "138px",
+                "z-index": 20
+            },
+            "dimensions": {
+                "width": "1644px",
+                "height": "168.00010681152344px"
+            },
+            "colors": {
+                "color": null,
+                "background-color": null
+            },
+            "fonts": {
+                "font-family": null,
+                "font-size": null,
+                "font-weight": null,
+                "line-height": null,
+                "text-align": null,
+                "letter-spacing": null,
+                "text-transform": null
+            },
+            "image": {
+                "imageHash": null
+            },
+            "border": "none"
+        },
+        "type": "shape"
+    },
+    {
+        "id": "1730:45040",
+        "name": "text-0",
+        "textMeta": {
+            "content": "Customer Experience",
+            "wordCount": 0,
+            "isSentence": false,
+            "widthSet": true,
+            "mixedFontRules": false
+        },
+        "isMainContainer": false,
+        "style": {
+            "position": {
+                "top": "3186.3266520500183px",
+                "left": "634.5px",
+                "z-index": 30
+            },
+            "dimensions": {
+                "width": "619px",
+                "height": "88px"
+            },
+            "colors": {
+                "color": "#162c63",
+                "background-color": null
+            },
+            "fonts": {
+                "font-family": "Sans-serif",
+                "font-size": "64px",
+                "font-weight": 336,
+                "line-height": "88px",
+                "text-align": "CENTER",
+                "letter-spacing": null,
+                "text-transform": null
+            },
+            "image": {
+                "imageHash": null
+            }
+        },
+        "type": "text"
+    },
+    {
+        "id": "1730:45041",
+        "name": "text-1",
+        "textMeta": {
+            "content": "Innovative, connected, user-centric customer solutions. ",
+            "wordCount": 5,
+            "isSentence": true,
+            "widthSet": false,
+            "mixedFontRules": false
+        },
+        "isMainContainer": false,
+        "style": {
+            "position": {
+                "top": "3290.3266525268555px",
+                "left": "746.5px",
+                "z-index": 40
+            },
+            "dimensions": {
+                "width": "427px",
+                "height": "64px"
+            },
+            "colors": {
+                "color": "#162c63",
+                "background-color": null
+            },
+            "fonts": {
+                "font-family": "Sans-serif",
+                "font-size": "24px",
+                "font-weight": 336,
+                "line-height": "32px",
+                "text-align": "CENTER",
+                "letter-spacing": null,
+                "text-transform": null
+            },
+            "image": {
+                "imageHash": null
+            }
+        },
+        "type": "text"
+    },
+    {
+        "id": "1730:45042",
+        "name": "shape-2",
+        "textMeta": {
+            "content": null,
+            "wordCount": 0,
+            "isSentence": false,
+            "widthSet": false,
+            "mixedFontRules": false
+        },
+        "isMainContainer": false,
+        "style": {
+            "position": {
+                "top": "3418.326644897461px",
+                "left": "138px",
+                "z-index": 50
+            },
+            "dimensions": {
+                "width": "1644px",
+                "height": "0px"
+            },
+            "colors": {
+                "color": null,
+                "background-color": null
+            },
+            "fonts": {
+                "font-family": null,
+                "font-size": null,
+                "font-weight": null,
+                "line-height": null,
+                "text-align": null,
+                "letter-spacing": null,
+                "text-transform": null
+            },
+            "image": {
+                "imageHash": null
+            },
+            "border": "1px SOLID #e3ded5"
+        },
+        "type": "shape"
+    },
+    {
+        "id": "1730:45043",
+        "name": "shape-6",
+        "textMeta": {
+            "content": null,
+            "wordCount": 0,
+            "isSentence": false,
+            "widthSet": false,
+            "mixedFontRules": false
+        },
+        "isMainContainer": false,
+        "style": {
+            "position": {
+                "top": "3482.32666015625px",
+                "left": "138px",
+                "z-index": 60
+            },
+            "dimensions": {
+                "width": "1644px",
+                "height": "168.00010681152344px"
+            },
+            "colors": {
+                "color": null,
+                "background-color": null
+            },
+            "fonts": {
+                "font-family": null,
+                "font-size": null,
+                "font-weight": null,
+                "line-height": null,
+                "text-align": null,
+                "letter-spacing": null,
+                "text-transform": null
+            },
+            "image": {
+                "imageHash": null
+            },
+            "border": "none"
+        },
+        "type": "shape"
+    },
+    {
+        "id": "1730:45044",
+        "name": "text-2",
+        "textMeta": {
+            "content": "Employee Experience",
+            "wordCount": 0,
+            "isSentence": false,
+            "widthSet": true,
+            "mixedFontRules": false
+        },
+        "isMainContainer": false,
+        "style": {
+            "position": {
+                "top": "3482.3267731666565px",
+                "left": "641px",
+                "z-index": 70
+            },
+            "dimensions": {
+                "width": "626px",
+                "height": "88px"
+            },
+            "colors": {
+                "color": "#162c63",
+                "background-color": null
+            },
+            "fonts": {
+                "font-family": "Sans-serif",
+                "font-size": "64px",
+                "font-weight": 336,
+                "line-height": "88px",
+                "text-align": "CENTER",
+                "letter-spacing": null,
+                "text-transform": null
+            },
+            "image": {
+                "imageHash": null
+            }
+        },
+        "type": "text"
+    },
+    {
+        "id": "1730:45045",
+        "name": "text-3",
+        "textMeta": {
+            "content": "Digital workspaces where employees thrive. ",
+            "wordCount": 5,
+            "isSentence": true,
+            "widthSet": false,
+            "mixedFontRules": false
+        },
+        "isMainContainer": false,
+        "style": {
+            "position": {
+                "top": "3586.326774597168px",
+                "left": "746.5px",
+                "z-index": 80
+            },
+            "dimensions": {
+                "width": "427px",
+                "height": "64px"
+            },
+            "colors": {
+                "color": "#162c63",
+                "background-color": null
+            },
+            "fonts": {
+                "font-family": "Sans-serif",
+                "font-size": "24px",
+                "font-weight": 336,
+                "line-height": "32px",
+                "text-align": "CENTER",
+                "letter-spacing": null,
+                "text-transform": null
+            },
+            "image": {
+                "imageHash": null
+            }
+        },
+        "type": "text"
+    },
+    {
+        "id": "1730:45046",
+        "name": "shape-3",
+        "textMeta": {
+            "content": null,
+            "wordCount": 0,
+            "isSentence": false,
+            "widthSet": false,
+            "mixedFontRules": false
+        },
+        "isMainContainer": false,
+        "style": {
+            "position": {
+                "top": "3714.3267822265625px",
+                "left": "138px",
+                "z-index": 90
+            },
+            "dimensions": {
+                "width": "1644px",
+                "height": "0px"
+            },
+            "colors": {
+                "color": null,
+                "background-color": null
+            },
+            "fonts": {
+                "font-family": null,
+                "font-size": null,
+                "font-weight": null,
+                "line-height": null,
+                "text-align": null,
+                "letter-spacing": null,
+                "text-transform": null
+            },
+            "image": {
+                "imageHash": null
+            },
+            "border": "1px SOLID #e3ded5"
+        },
+        "type": "shape"
+    },
+    {
+        "id": "1730:45047",
+        "name": "shape-1",
+        "textMeta": {
+            "content": null,
+            "wordCount": 0,
+            "isSentence": false,
+            "widthSet": false,
+            "mixedFontRules": false
+        },
+        "isMainContainer": false,
+        "style": {
+            "position": {
+                "top": "3778.3267822265625px",
+                "left": "138px",
+                "z-index": 100
+            },
+            "dimensions": {
+                "width": "1644px",
+                "height": "168.00010681152344px"
+            },
+            "colors": {
+                "color": null,
+                "background-color": null
+            },
+            "fonts": {
+                "font-family": null,
+                "font-size": null,
+                "font-weight": null,
+                "line-height": null,
+                "text-align": null,
+                "letter-spacing": null,
+                "text-transform": null
+            },
+            "image": {
+                "imageHash": null
+            },
+            "border": "none"
+        },
+        "type": "shape"
+    },
+    {
+        "id": "1730:45048",
+        "name": "text-4",
+        "textMeta": {
+            "content": "Product Experience",
+            "wordCount": 0,
+            "isSentence": false,
+            "widthSet": true,
+            "mixedFontRules": false
+        },
+        "isMainContainer": false,
+        "style": {
+            "position": {
+                "top": "3778.3268876075745px",
+                "left": "663.5px",
+                "z-index": 110
+            },
+            "dimensions": {
+                "width": "564px",
+                "height": "88px"
+            },
+            "colors": {
+                "color": "#162c63",
+                "background-color": null
+            },
+            "fonts": {
+                "font-family": "Sans-serif",
+                "font-size": "64px",
+                "font-weight": 336,
+                "line-height": "88px",
+                "text-align": "CENTER",
+                "letter-spacing": null,
+                "text-transform": null
+            },
+            "image": {
+                "imageHash": null
+            }
+        },
+        "type": "text"
+    },
+    {
+        "id": "1730:45049",
+        "name": "text-5",
+        "textMeta": {
+            "content": "Laser focused on your growth and ready to help you scale. ",
+            "wordCount": 11,
+            "isSentence": true,
+            "widthSet": false,
+            "mixedFontRules": false
+        },
+        "isMainContainer": false,
+        "style": {
+            "position": {
+                "top": "3882.326889038086px",
+                "left": "746.5px",
+                "z-index": 120
+            },
+            "dimensions": {
+                "width": "427px",
+                "height": "64px"
+            },
+            "colors": {
+                "color": "#162c63",
+                "background-color": null
+            },
+            "fonts": {
+                "font-family": "Sans-serif",
+                "font-size": "24px",
+                "font-weight": 336,
+                "line-height": "32px",
+                "text-align": "CENTER",
+                "letter-spacing": null,
+                "text-transform": null
+            },
+            "image": {
+                "imageHash": null
+            }
+        },
+        "type": "text"
+    },
+    {
+        "id": "1730:45050",
+        "name": "shape-4",
+        "textMeta": {
+            "content": null,
+            "wordCount": 0,
+            "isSentence": false,
+            "widthSet": false,
+            "mixedFontRules": false
+        },
+        "isMainContainer": false,
+        "style": {
+            "position": {
+                "top": "4010.326904296875px",
+                "left": "138px",
+                "z-index": 130
+            },
+            "dimensions": {
+                "width": "1644px",
+                "height": "0px"
+            },
+            "colors": {
+                "color": null,
+                "background-color": null
+            },
+            "fonts": {
+                "font-family": null,
+                "font-size": null,
+                "font-weight": null,
+                "line-height": null,
+                "text-align": null,
+                "letter-spacing": null,
+                "text-transform": null
+            },
+            "image": {
+                "imageHash": null
+            },
+            "border": "1px SOLID #e3ded5"
+        },
+        "type": "shape"
+    },
+    {
+        "id": "1730:45055",
+        "name": "shape-5",
+        "textMeta": {
+            "content": null,
+            "wordCount": 0,
+            "isSentence": false,
+            "widthSet": false,
+            "mixedFontRules": false
+        },
+        "isMainContainer": false,
+        "style": {
+            "position": {
+                "top": "4074.326904296875px",
+                "left": "138px",
+                "z-index": 140
+            },
+            "dimensions": {
+                "width": "1644px",
+                "height": "168.00009155273438px"
+            },
+            "colors": {
+                "color": null,
+                "background-color": null
+            },
+            "fonts": {
+                "font-family": null,
+                "font-size": null,
+                "font-weight": null,
+                "line-height": null,
+                "text-align": null,
+                "letter-spacing": null,
+                "text-transform": null
+            },
+            "image": {
+                "imageHash": null
+            },
+            "border": "none"
+        },
+        "type": "shape"
+    },
+    {
+        "id": "1730:45056",
+        "name": "text-6",
+        "textMeta": {
+            "content": "Managed Services",
+            "wordCount": 0,
+            "isSentence": false,
+            "widthSet": true,
+            "mixedFontRules": false
+        },
+        "isMainContainer": false,
+        "style": {
+            "position": {
+                "top": "4074.3270020484924px",
+                "left": "684px",
+                "z-index": 150
+            },
+            "dimensions": {
+                "width": "537px",
+                "height": "88px"
+            },
+            "colors": {
+                "color": "#162c63",
+                "background-color": null
+            },
+            "fonts": {
+                "font-family": "Sans-serif",
+                "font-size": "64px",
+                "font-weight": 336,
+                "line-height": "88px",
+                "text-align": "CENTER",
+                "letter-spacing": null,
+                "text-transform": null
+            },
+            "image": {
+                "imageHash": null
+            }
+        },
+        "type": "text"
+    },
+    {
+        "id": "1730:45057",
+        "name": "text-7",
+        "textMeta": {
+            "content": "Maintaining secure, optimised and high performing digital products",
+            "wordCount": 8,
+            "isSentence": true,
+            "widthSet": false,
+            "mixedFontRules": false
+        },
+        "isMainContainer": false,
+        "style": {
+            "position": {
+                "top": "4178.327003479004px",
+                "left": "746.5px",
+                "z-index": 160
+            },
+            "dimensions": {
+                "width": "427px",
+                "height": "64px"
+            },
+            "colors": {
+                "color": "#162c63",
+                "background-color": null
+            },
+            "fonts": {
+                "font-family": "Sans-serif",
+                "font-size": "24px",
+                "font-weight": 336,
+                "line-height": "32px",
+                "text-align": "CENTER",
+                "letter-spacing": null,
+                "text-transform": null
+            },
+            "image": {
+                "imageHash": null
+            }
+        },
+        "type": "text"
     }
 ]
